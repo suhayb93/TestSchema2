@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c0149231_NetworkBufferLinkInt" FOR mdsys."/c0149231_NetworkBufferLinkInt";

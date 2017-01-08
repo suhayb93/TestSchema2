@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e9e822eb_JGeometryD2" FOR mdsys."/e9e822eb_JGeometryD2";

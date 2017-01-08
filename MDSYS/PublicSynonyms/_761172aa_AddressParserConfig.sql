@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/761172aa_AddressParserConfig" FOR mdsys."/761172aa_AddressParserConfig";

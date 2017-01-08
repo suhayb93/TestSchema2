@@ -1,0 +1,1 @@
+CREATE SEQUENCE mdsys.sdo_topo_transact_seq NOCACHE ORDER;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/98b1cf3a_Dijkstra" FOR mdsys."/98b1cf3a_Dijkstra";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/f6b7c18_WKBasisVectorOfDouble" FOR mdsys."/f6b7c18_WKBasisVectorOfDouble";

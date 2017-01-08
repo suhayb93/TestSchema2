@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_net_partition FOR mdsys.sdo_net_partition;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/f90975ef_XMLConfigurable" FOR mdsys."/f90975ef_XMLConfigurable";

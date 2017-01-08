@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/13771389_LogicalSubNetworkImp" FOR mdsys."/13771389_LogicalSubNetworkImp";

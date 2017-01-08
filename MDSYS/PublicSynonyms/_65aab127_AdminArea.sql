@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/65aab127_AdminArea" FOR mdsys."/65aab127_AdminArea";

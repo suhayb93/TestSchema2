@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/13f03917_DummyLinkLevelSelect" FOR mdsys."/13f03917_DummyLinkLevelSelect";

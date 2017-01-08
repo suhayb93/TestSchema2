@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/731cb43e_IndexRecord" FOR mdsys."/731cb43e_IndexRecord";

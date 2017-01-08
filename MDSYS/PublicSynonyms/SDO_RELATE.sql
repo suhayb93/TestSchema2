@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_relate FOR mdsys.sdo_relate;

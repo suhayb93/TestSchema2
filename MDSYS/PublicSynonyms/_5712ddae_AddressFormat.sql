@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/5712ddae_AddressFormat" FOR mdsys."/5712ddae_AddressFormat";

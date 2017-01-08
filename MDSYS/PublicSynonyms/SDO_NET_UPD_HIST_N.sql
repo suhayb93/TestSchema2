@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_net_upd_hist_n FOR mdsys.sdo_net_upd_hist_n;

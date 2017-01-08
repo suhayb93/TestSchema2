@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/2ff82de1_JGeometryUtilityPoin" FOR mdsys."/2ff82de1_JGeometryUtilityPoin";

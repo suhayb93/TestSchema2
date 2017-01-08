@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_pc_blk FOR mdsys.sdo_pc_blk;

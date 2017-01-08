@@ -1,0 +1,26 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE BODY mdsys.mdprvt_feature wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+1e0 140
+1DQHytSQkJqWdbLj98hZp6JHA6gwg5XQfyAVZ3QC2k7VVhvIdUVlWAM3XreYhb9GZenMx+n3
+plyopfj2dw5mMoqpH7quM/7kniEgU+BUMIOvLTr84hCBWPz5JWzdfKv7jgay62AE4TqXRdOC
+DAS+o2VgjUmEWx4Oon/2ibE+tA6w5ByTdsl7e0eI1MaLwOL++qqgM/U7KHle/t46ht88Y0fR
+NgFbhxaw2p0JgTkFg1M5hkzD/M1ijunFJFk5Uuj8hLLBgs5z0NivfQF7tRMMMAHWJfmc8iW8
+AP4mEtwbnzatlAnUmHLkQ/37pDdq
+/

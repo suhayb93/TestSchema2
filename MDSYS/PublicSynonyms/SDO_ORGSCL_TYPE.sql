@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_orgscl_type FOR mdsys.sdo_orgscl_type;

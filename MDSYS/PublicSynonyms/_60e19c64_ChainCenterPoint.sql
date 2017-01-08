@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/60e19c64_ChainCenterPoint" FOR mdsys."/60e19c64_ChainCenterPoint";

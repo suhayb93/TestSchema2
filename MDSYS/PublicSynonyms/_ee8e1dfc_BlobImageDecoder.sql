@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ee8e1dfc_BlobImageDecoder" FOR mdsys."/ee8e1dfc_BlobImageDecoder";

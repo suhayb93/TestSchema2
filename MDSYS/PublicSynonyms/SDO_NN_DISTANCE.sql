@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_nn_distance FOR mdsys.sdo_nn_distance;

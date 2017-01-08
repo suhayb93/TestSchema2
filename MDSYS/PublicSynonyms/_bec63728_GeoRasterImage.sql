@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/bec63728_GeoRasterImage" FOR mdsys."/bec63728_GeoRasterImage";

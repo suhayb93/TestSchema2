@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b33419d9_GeoRasterGeoTIFFInte" FOR mdsys."/b33419d9_GeoRasterGeoTIFFInte";

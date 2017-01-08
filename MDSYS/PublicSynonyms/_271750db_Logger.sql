@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/271750db_Logger" FOR mdsys."/271750db_Logger";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6eb03abf_Sorter" FOR mdsys."/6eb03abf_Sorter";

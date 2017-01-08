@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhencode_bylevel FOR mdsys.hhencode_bylevel;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_vpoint_type FOR mdsys.sdo_vpoint_type;

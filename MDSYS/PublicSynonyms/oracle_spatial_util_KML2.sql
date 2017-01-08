@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/util/KML2" FOR mdsys."oracle/spatial/util/KML2";

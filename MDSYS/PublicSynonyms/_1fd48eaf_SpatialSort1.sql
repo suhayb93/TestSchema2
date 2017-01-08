@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1fd48eaf_SpatialSort1" FOR mdsys."/1fd48eaf_SpatialSort1";

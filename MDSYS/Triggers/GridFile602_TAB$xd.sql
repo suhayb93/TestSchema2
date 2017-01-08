@@ -1,0 +1,2 @@
+CREATE OR REPLACE NONEDITIONABLE trigger mdsys."GridFile602_TAB$xd"              after delete or update on mdsys."GridFile602_TAB" for each row BEGIN  IF (deleting) THEN xdb.xdb_pitrig_pkg.pitrig_del('MDSYS','GridFile602_TAB', :old.sys_nc_oid$, 'FD9B584A1FB276C8E043B6A9E80AB480' ); END IF;   IF (updating) THEN xdb.xdb_pitrig_pkg.pitrig_upd('MDSYS','GridFile602_TAB', :old.sys_nc_oid$, 'FD9B584A1FB276C8E043B6A9E80AB480', user ); END IF; END;
+/

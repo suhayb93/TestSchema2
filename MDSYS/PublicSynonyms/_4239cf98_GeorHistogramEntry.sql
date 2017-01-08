@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/4239cf98_GeorHistogramEntry" FOR mdsys."/4239cf98_GeorHistogramEntry";

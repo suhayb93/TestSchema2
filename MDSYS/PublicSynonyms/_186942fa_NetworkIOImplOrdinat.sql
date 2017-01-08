@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/186942fa_NetworkIOImplOrdinat" FOR mdsys."/186942fa_NetworkIOImplOrdinat";

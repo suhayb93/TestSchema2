@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/474c9b12_SdoPicklerUnpickleHe" FOR mdsys."/474c9b12_SdoPicklerUnpickleHe";

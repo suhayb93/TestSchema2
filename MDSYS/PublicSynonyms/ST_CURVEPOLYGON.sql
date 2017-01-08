@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_curvepolygon FOR mdsys.st_curvepolygon;

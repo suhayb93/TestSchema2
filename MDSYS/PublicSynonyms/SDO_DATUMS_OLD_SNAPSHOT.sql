@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_datums_old_snapshot FOR mdsys.sdo_datums_old_snapshot;

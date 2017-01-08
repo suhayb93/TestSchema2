@@ -1,0 +1,35 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE BODY mdsys.mdprvt_gmd wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+f29 3c1
+mEBceq/QM91abGDjvxsRyQsOZt0wg0PqLtATfC/NWA84zWzKaxEFC4wcdoovCnDvBZGcthiJ
+oKMmMTvlEaqqF86eqEayaJ94CSJLF0BCThl03ObWTyFdkSZUYMuYnbWH0Dq7akpphldGFKNE
+bmPstqh4IdNfo0EHcZW+yDyUYCUExIVA/HAugXgsz0APFSVDWtBn6Xko0Ocd3OSzwGLeNiRt
+VrnL2oW6ep1ItXrNYcYQU6qt2/iGp3nQBdp8GNsJXpDzY5NHmy8ZS6w3HEZMt2ehmfPzZT0v
+y+D9xKOKGlRRM6HWQfSpo2MTjePZUOKYh6kFZLNPeqVFmhxp+CoztwCHnDMZ4HXK3WfuGNzg
+3mZchM9iQhaR8+5FieRFWS/hpfv68UxEPK8swBK8JJNRAIX0ghz+LtxneVnDJ/RZhmyxxBQX
+oHBinK+f5/7GRSifLKAoezNUaZ1W9tkZvk0ODzwtLagZKgA1FqjqJ0Vu6E3eGHXlorM7yAee
+w/H3dVhHR7Je5xSwo+uKb/pLsNYw+YGbvY5ejdcgPWSbmxmrf7bSfKN0jI18wBrS0LfroBzs
+CoQtAZGbIaFTn/PCv4w+y/k161Htf8HxdsNS3bbViRQo9suXxPYvyjeuKaCmP7X7zlFNI+jP
+5oeaZWSV0ByxgGA4nE7jxhoLAvZxg5USs9w1rxhTPQvdjpvKh7pXMqGjg/uBokDq+O0PLhDd
+CsTmuV9jUm7Xz8AknSQQwz6QVQ0HW8T2eMY+0Vhtj+ztlHpyNhgeHs+HhRsJxVJ7w5gVahN3
+Jj28MF3mTuXthVDWuGnD71p2auCQP0RhV6jiSJBEAIk8hnCNlw64lSNPbackngvXXdbSoMfS
+lX+rNCHEJiJi7k+gyWWJeYdvY1DS3u6MIZFEqmFRUEYDx/kF+CuwUxATFNHWpxjd3X8M0tQG
+9xcIQySWS1d9
+/

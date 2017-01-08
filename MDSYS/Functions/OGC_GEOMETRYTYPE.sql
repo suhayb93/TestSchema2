@@ -1,0 +1,7 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.OGC_GeometryType(
+  g ST_Geometry)
+    RETURN VARCHAR2 IS
+BEGIN
+  RETURN g.ST_GeometryType();
+END OGC_GeometryType;
+/

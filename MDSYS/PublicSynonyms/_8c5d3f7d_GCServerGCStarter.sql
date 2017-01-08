@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/8c5d3f7d_GCServerGCStarter" FOR mdsys."/8c5d3f7d_GCServerGCStarter";

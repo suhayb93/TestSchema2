@@ -1,0 +1,2 @@
+CREATE OR REPLACE NONEDITIONABLE TYPE mdsys."GridNodeType584_T" AS OBJECT ("SYS_XDBPD$" "XDB"."XDB$RAW_LIST_T","Offset" "CoordinatesType585_T","OffsetPrecision" "CoordinatesType585_T")NOT FINAL INSTANTIABLE 
+/

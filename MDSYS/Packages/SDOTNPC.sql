@@ -1,0 +1,26 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE mdsys.sdotnpc wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+25a 138
+39DtdYJ4zH4Z9W72ejp/8Rq5yVowgzvxmEhqfHTp2sHVVxtn6OJBEfENpB5E8ieAsiloNlr5
+LPPTyg1tbzNpLhrbEoWZxcrwtL1xIq6xZE7zfLA/cA7YxdGNdun7hjnKTUnu2OEarKG07BqE
+sT3+eRU844TVpUryAPweHIUTflWKwLFHVwSMsGtRngwWv2BoYQRD8wmWb0nd5UxXrs3PX7t+
+RBVfnZ8PZOTZYgootXD1+obm6iS4WXs7QZxtPijv6XOApJuwJgDOM2m1B9lhOxMXQmp+CS7w
+JlZSdPcQwDfsnP0HJfDq
+/

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b71dcac6_SubLayerInfo" FOR mdsys."/b71dcac6_SubLayerInfo";

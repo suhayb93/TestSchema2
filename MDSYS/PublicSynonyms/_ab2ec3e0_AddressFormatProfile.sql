@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ab2ec3e0_AddressFormatProfile" FOR mdsys."/ab2ec3e0_AddressFormatProfile";

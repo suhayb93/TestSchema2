@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/dcb9dbfc_nodeIncLnkCostCompar" FOR mdsys."/dcb9dbfc_nodeIncLnkCostCompar";

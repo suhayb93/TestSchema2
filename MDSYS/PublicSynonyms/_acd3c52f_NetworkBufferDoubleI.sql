@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/acd3c52f_NetworkBufferDoubleI" FOR mdsys."/acd3c52f_NetworkBufferDoubleI";

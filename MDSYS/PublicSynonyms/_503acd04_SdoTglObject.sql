@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/503acd04_SdoTglObject" FOR mdsys."/503acd04_SdoTglObject";

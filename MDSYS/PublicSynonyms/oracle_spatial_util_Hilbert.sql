@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/util/Hilbert" FOR mdsys."oracle/spatial/util/Hilbert";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_3gl FOR mdsys.sdo_3gl;

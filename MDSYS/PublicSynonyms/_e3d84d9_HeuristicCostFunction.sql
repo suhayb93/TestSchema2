@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e3d84d9_HeuristicCostFunction" FOR mdsys."/e3d84d9_HeuristicCostFunction";

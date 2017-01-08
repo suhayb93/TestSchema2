@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dba_sdo_styles FOR mdsys.dba_sdo_styles;

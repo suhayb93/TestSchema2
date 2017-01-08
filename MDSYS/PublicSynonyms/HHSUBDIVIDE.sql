@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhsubdivide FOR mdsys.hhsubdivide;

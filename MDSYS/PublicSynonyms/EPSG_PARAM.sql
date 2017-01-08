@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM epsg_param FOR mdsys.epsg_param;

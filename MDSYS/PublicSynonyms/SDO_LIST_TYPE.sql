@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_list_type FOR mdsys.sdo_list_type;

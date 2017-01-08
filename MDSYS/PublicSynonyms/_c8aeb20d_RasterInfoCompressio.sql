@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c8aeb20d_RasterInfoCompressio" FOR mdsys."/c8aeb20d_RasterInfoCompressio";

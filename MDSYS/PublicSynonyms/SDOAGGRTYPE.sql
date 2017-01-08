@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdoaggrtype FOR mdsys.sdoaggrtype;

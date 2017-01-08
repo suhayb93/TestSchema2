@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/9fad738_RTreeJoinEntryCmp" FOR mdsys."/9fad738_RTreeJoinEntryCmp";

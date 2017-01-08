@@ -1,0 +1,7 @@
+CREATE OR REPLACE FORCE NONEDITIONABLE VIEW mdsys.all_sdo_lrs_metadata ("OWNER",table_name,column_name,dim_pos,dim_unit) AS
+SELECT  SDO_OWNER       OWNER,
+        SDO_TABLE_NAME  TABLE_NAME,
+        SDO_COLUMN_NAME COLUMN_NAME,
+        SDO_DIM_POS     DIM_POS,
+        SDO_DIM_UNIT    DIM_UNIT
+FROM SDO_LRS_METADATA_TABLE;

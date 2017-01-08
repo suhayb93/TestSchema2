@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_crs_geographic2d FOR mdsys.sdo_crs_geographic2d;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ab2cb38f_LogicalPathImpl" FOR mdsys."/ab2cb38f_LogicalPathImpl";

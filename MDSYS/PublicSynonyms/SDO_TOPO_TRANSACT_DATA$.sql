@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_topo_transact_data$ FOR mdsys.sdo_topo_transact_data$;

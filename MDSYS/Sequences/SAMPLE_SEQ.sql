@@ -1,0 +1,1 @@
+CREATE SEQUENCE mdsys.sample_seq;

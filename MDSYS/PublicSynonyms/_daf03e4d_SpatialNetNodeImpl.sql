@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/daf03e4d_SpatialNetNodeImpl" FOR mdsys."/daf03e4d_SpatialNetNodeImpl";

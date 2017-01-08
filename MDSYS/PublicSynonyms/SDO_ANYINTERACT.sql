@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_anyinteract FOR mdsys.sdo_anyinteract;

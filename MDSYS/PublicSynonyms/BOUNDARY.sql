@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM boundary FOR mdsys.ogc_boundary;

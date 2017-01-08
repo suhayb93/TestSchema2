@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM all_sdo_tin_pc_sysdata FOR mdsys.all_sdo_tin_pc_sysdata;

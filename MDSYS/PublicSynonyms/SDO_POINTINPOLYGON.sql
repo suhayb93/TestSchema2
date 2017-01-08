@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_pointinpolygon FOR mdsys.sdo_pointinpolygon;

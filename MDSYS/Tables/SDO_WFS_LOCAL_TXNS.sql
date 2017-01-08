@@ -1,0 +1,4 @@
+CREATE GLOBAL TEMPORARY TABLE mdsys.sdo_wfs_local_txns (
+  sessionid VARCHAR2(30 BYTE)
+)
+ON COMMIT PRESERVE ROWS;

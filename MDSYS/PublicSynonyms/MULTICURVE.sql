@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM multicurve FOR mdsys.st_multicurve;

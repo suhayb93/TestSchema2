@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/5c855f6e_SpatialPartitionImpl" FOR mdsys."/5c855f6e_SpatialPartitionImpl";

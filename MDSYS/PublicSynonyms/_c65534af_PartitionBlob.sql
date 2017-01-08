@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c65534af_PartitionBlob" FOR mdsys."/c65534af_PartitionBlob";

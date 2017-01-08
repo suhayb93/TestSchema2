@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/4d90f23d_nodeDegreeComparator" FOR mdsys."/4d90f23d_nodeDegreeComparator";

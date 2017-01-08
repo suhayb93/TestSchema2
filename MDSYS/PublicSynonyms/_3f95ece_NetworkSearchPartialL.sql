@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/3f95ece_NetworkSearchPartialL" FOR mdsys."/3f95ece_NetworkSearchPartialL";

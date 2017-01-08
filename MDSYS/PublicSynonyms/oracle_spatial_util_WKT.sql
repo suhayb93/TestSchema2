@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/util/WKT" FOR mdsys."oracle/spatial/util/WKT";

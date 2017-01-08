@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a1732598_RouterVersion" FOR mdsys."/a1732598_RouterVersion";

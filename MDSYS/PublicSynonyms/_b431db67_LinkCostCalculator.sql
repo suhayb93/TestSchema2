@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b431db67_LinkCostCalculator" FOR mdsys."/b431db67_LinkCostCalculator";

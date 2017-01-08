@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_coveredby FOR mdsys.sdo_coveredby;

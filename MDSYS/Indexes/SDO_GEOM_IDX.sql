@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_geom_idx ON mdsys.sdo_geom_metadata_table(sdo_owner,sdo_table_name);

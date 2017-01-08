@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_sem_downgrade_utl FOR mdsys.sdo_sem_downgrade_utl;

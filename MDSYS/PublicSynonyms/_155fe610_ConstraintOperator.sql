@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/155fe610_ConstraintOperator" FOR mdsys."/155fe610_ConstraintOperator";

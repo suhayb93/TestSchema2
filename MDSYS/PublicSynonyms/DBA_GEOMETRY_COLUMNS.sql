@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dba_geometry_columns FOR mdsys.dba_geometry_columns;

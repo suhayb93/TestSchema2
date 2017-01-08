@@ -1,0 +1,22 @@
+CREATE TABLE mdsys.sdo_datums (
+  datum_id NUMBER(10) NOT NULL CONSTRAINT datum_id_must_be_pos CHECK (DATUM_ID > 0),
+  datum_name VARCHAR2(80 BYTE) NOT NULL,
+  datum_type VARCHAR2(24 BYTE),
+  ellipsoid_id NUMBER(10),
+  prime_meridian_id NUMBER(10),
+  information_source VARCHAR2(254 BYTE),
+  data_source VARCHAR2(40 BYTE),
+  shift_x NUMBER,
+  shift_y NUMBER,
+  shift_z NUMBER,
+  rotate_x NUMBER,
+  rotate_y NUMBER,
+  rotate_z NUMBER,
+  scale_adjust NUMBER,
+  is_legacy VARCHAR2(5 BYTE) NOT NULL,
+  legacy_code NUMBER(10),
+  CONSTRAINT datum_prim PRIMARY KEY (datum_id),
+  CONSTRAINT datum_foreign_ellipsoid FOREIGN KEY (ellipsoid_id) REFERENCES mdsys.sdo_ellipsoids (ellipsoid_id),
+  CONSTRAINT datum_foreign_legacy FOREIGN KEY (legacy_code) REFERENCES mdsys.sdo_datums (datum_id),
+  CONSTRAINT datum_foreign_meridian FOREIGN KEY (prime_meridian_id) REFERENCES mdsys.sdo_prime_meridians (prime_meridian_id)
+);

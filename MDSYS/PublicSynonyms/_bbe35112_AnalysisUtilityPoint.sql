@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/bbe35112_AnalysisUtilityPoint" FOR mdsys."/bbe35112_AnalysisUtilityPoint";

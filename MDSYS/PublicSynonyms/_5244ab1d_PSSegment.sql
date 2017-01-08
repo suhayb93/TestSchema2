@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/5244ab1d_PSSegment" FOR mdsys."/5244ab1d_PSSegment";

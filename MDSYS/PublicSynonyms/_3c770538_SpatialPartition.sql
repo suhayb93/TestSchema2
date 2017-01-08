@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/3c770538_SpatialPartition" FOR mdsys."/3c770538_SpatialPartition";

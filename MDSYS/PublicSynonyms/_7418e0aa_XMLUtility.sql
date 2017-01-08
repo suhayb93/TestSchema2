@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/7418e0aa_XMLUtility" FOR mdsys."/7418e0aa_XMLUtility";

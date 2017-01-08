@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_ordinate_array FOR mdsys.sdo_ordinate_array;

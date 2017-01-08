@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_idx_mdata_idx ON mdsys.sdo_index_metadata_table(sdo_index_owner,sdo_index_name,sdo_index_partition);

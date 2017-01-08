@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c2dbcdf4_FormatTransformerMet" FOR mdsys."/c2dbcdf4_FormatTransformerMet";

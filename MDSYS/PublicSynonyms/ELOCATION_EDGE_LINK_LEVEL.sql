@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM elocation_edge_link_level FOR mdsys.elocation_edge_link_level;

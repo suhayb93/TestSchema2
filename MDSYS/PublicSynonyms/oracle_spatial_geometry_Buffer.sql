@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/geometry/Buffer" FOR mdsys."oracle/spatial/geometry/Buffer";

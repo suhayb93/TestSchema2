@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/252088c1_ElocationPartitionpa" FOR mdsys."/252088c1_ElocationPartitionpa";

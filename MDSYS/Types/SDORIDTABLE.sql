@@ -1,0 +1,2 @@
+CREATE OR REPLACE NONEDITIONABLE type mdsys.sdoridtable AS TABLE of VARCHAR2(24);
+/

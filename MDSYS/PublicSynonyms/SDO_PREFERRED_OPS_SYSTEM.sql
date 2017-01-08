@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_preferred_ops_system FOR mdsys.sdo_preferred_ops_system;

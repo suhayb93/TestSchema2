@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/45064d8e_PostalCode" FOR mdsys."/45064d8e_PostalCode";

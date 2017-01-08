@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_tin_blk FOR mdsys.sdo_tin_blk;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/4e723dfc_LogicalBasicNetworkI" FOR mdsys."/4e723dfc_LogicalBasicNetworkI";

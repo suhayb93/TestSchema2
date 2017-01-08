@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e8766d28_LinkLevelSelector" FOR mdsys."/e8766d28_LinkLevelSelector";

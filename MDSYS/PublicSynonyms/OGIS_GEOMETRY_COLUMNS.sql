@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ogis_geometry_columns FOR mdsys.ogis_geometry_columns;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e87fe748_Municipality" FOR mdsys."/e87fe748_Municipality";

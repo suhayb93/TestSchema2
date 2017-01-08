@@ -1,0 +1,32 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE mdsys.sdo_geor_def wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+96e 306
+JrDPSrjV42nLUYsf1P8nWq3gpSQwgzsrLiAFfHRVk53mxjYEOVbd3AB/b4bnjWOiUUVDXQyY
+HJn1tSwEAZj05I2LjDnh2z8UmoxPhZFble+JFrUAnT1kliC7gU7ZD733YaOhAv15swzn5lA4
+B8KiwagvI4wdoaQUr4MO9f06Nry0rA9iP3NxYixGtELqDhgcvuM1FQRQ1cpUU5omUWHGX7vm
+/0xxcxVacietJdQn1z2TeKKEz/ZHiQRkTebhoF0o6r0nTY5DswDCcglkCZOS2sPAwBwAXE+g
+VZTEgksA9sf7gN1zABScS3YebUSc9q1F9meNR7fHBJi3CzsuUa51kvrPOolLiC+ZlNxwAoIs
+hecMdIDkuRvTBhHZl7duUMqNngel7xbqW5uDpyowKAc1mN7/r3WGaCAhq5S5/EWTpJNBbXea
+1fBGLqBE3hcXjktdE+njY6Vas09BXc9sCbT9FST10fJbQ1VKshiNeUalsQwRwrce3Roud5bH
+xswG06S0tn/KLs/eH9ZcLu37WUHaNkEFvdizHv1EXrgs+hl3tgQ7vJGjG7o0eWYaVEpV+pI4
+lFYBCw6KxCaEM88wWrdf4vy4RSvNMEQa+dnuiXcJoCMsUrNVkKeQeqoJBaDQ2FLYdtHikQCZ
+9lXI+koDP6BAd+uW7ccaQWjM1+EKmCYEN9hT/wzQpTFiPOItkiFIgvZZM6daLZUG94YlJMh3
+mIukMBlNepjhefQksW8vEY1ZZ6OHKrVoJM/4KK7zAJ0=
+/

@@ -1,0 +1,8 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.OGC_Buffer(
+  g ST_Geometry,
+  d NUMBER)
+    RETURN ST_Geometry DETERMINISTIC IS
+BEGIN
+  RETURN g.ST_Buffer(d);
+END OGC_Buffer;
+/

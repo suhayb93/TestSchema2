@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a605671f_DataSourceHandler" FOR mdsys."/a605671f_DataSourceHandler";

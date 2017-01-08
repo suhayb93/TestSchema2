@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/918fe946_SubLayerInfoStatisti" FOR mdsys."/918fe946_SubLayerInfoStatisti";

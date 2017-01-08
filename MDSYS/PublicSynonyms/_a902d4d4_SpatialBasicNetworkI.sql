@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a902d4d4_SpatialBasicNetworkI" FOR mdsys."/a902d4d4_SpatialBasicNetworkI";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/bef1b668_GeocoderException" FOR mdsys."/bef1b668_GeocoderException";

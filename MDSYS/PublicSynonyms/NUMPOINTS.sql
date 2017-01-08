@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM numpoints FOR mdsys.ogc_numpoints;

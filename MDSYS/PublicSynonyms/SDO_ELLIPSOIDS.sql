@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_ellipsoids FOR mdsys.sdo_ellipsoids;

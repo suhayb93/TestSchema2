@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM convexhull FOR mdsys.ogc_convexhull;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/util/JDBCUtil" FOR mdsys."oracle/spatial/util/JDBCUtil";

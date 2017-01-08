@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/fb2fabca_Buffer7" FOR mdsys."/fb2fabca_Buffer7";

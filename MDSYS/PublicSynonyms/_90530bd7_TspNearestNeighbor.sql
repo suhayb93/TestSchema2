@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/90530bd7_TspNearestNeighbor" FOR mdsys."/90530bd7_TspNearestNeighbor";

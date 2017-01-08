@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/222dd25c_DummyCostFunction" FOR mdsys."/222dd25c_DummyCostFunction";

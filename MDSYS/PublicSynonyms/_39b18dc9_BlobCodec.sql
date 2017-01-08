@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/39b18dc9_BlobCodec" FOR mdsys."/39b18dc9_BlobCodec";

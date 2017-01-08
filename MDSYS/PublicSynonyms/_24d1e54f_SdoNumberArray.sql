@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/24d1e54f_SdoNumberArray" FOR mdsys."/24d1e54f_SdoNumberArray";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1691b4e5_SkipList" FOR mdsys."/1691b4e5_SkipList";

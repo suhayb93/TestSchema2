@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b54e1e2_MDPointImpl" FOR mdsys."/b54e1e2_MDPointImpl";

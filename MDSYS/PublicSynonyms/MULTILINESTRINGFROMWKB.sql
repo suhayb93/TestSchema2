@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM multilinestringfromwkb FOR mdsys.ogc_multilinestringfromwkb;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM touch FOR mdsys.ogc_touch;

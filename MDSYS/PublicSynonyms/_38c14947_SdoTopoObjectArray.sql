@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/38c14947_SdoTopoObjectArray" FOR mdsys."/38c14947_SdoTopoObjectArray";

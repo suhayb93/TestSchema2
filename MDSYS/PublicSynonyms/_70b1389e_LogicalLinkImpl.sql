@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/70b1389e_LogicalLinkImpl" FOR mdsys."/70b1389e_LogicalLinkImpl";

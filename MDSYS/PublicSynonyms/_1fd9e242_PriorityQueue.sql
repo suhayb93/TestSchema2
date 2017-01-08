@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1fd9e242_PriorityQueue" FOR mdsys."/1fd9e242_PriorityQueue";

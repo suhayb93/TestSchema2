@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/bc76ba38_PartitionMultilevel" FOR mdsys."/bc76ba38_PartitionMultilevel";

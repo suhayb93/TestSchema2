@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/42c667ae_GeoRasterSRSAdapter" FOR mdsys."/42c667ae_GeoRasterSRSAdapter";

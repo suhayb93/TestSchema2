@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_net_cons_cons ON mdsys.sdo_network_constraints("CONSTRAINT");

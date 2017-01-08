@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/be18f664_MethodNotSupportedEx" FOR mdsys."/be18f664_MethodNotSupportedEx";

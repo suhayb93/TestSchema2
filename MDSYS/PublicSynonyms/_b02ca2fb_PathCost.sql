@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b02ca2fb_PathCost" FOR mdsys."/b02ca2fb_PathCost";

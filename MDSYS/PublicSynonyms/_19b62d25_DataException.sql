@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/19b62d25_DataException" FOR mdsys."/19b62d25_DataException";

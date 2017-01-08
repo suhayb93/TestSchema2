@@ -1,0 +1,1 @@
+CREATE SEQUENCE mdsys.xmlinfo_sq$ NOCACHE;

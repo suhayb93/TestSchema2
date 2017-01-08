@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/d912c7d8_DbDataSource" FOR mdsys."/d912c7d8_DbDataSource";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/562bfaec_Dijkstra" FOR mdsys."/562bfaec_Dijkstra";

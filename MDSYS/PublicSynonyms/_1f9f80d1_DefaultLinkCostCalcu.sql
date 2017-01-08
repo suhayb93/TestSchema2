@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1f9f80d1_DefaultLinkCostCalcu" FOR mdsys."/1f9f80d1_DefaultLinkCostCalcu";

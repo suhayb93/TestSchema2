@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM overlap FOR mdsys.ogc_overlap;

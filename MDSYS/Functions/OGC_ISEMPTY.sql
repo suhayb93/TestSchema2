@@ -1,0 +1,7 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.OGC_IsEmpty(
+  g ST_Geometry)
+    RETURN Integer IS
+BEGIN
+  RETURN g.ST_IsEmpty();
+END OGC_IsEmpty;
+/

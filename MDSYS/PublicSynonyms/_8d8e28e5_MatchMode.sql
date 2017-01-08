@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/8d8e28e5_MatchMode" FOR mdsys."/8d8e28e5_MatchMode";

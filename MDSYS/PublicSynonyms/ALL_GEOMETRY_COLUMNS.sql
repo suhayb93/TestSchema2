@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM all_geometry_columns FOR mdsys.all_geometry_columns;

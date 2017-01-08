@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/aa8c5690_TspPathFeature" FOR mdsys."/aa8c5690_TspPathFeature";

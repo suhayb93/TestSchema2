@@ -1,0 +1,4 @@
+CREATE GLOBAL TEMPORARY TABLE mdsys.sdo_gr_parallel (
+  pid NUMBER
+)
+ON COMMIT PRESERVE ROWS;

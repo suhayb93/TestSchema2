@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b46e0db3_GeorJP2Interface" FOR mdsys."/b46e0db3_GeorJP2Interface";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_regaggrset FOR mdsys.sdo_regaggrset;

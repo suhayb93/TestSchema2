@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ogc_contains FOR mdsys.ogc_contains;

@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_geor_idx1 ON mdsys.sdo_geor_sysdata_table(rdt_table_name,raster_id);

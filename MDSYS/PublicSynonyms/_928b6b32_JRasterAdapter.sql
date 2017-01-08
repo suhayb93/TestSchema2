@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/928b6b32_JRasterAdapter" FOR mdsys."/928b6b32_JRasterAdapter";

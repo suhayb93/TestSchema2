@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/54298e57_LASImportExportLasHe" FOR mdsys."/54298e57_LASImportExportLasHe";

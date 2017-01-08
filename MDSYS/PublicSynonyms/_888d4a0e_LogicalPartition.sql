@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/888d4a0e_LogicalPartition" FOR mdsys."/888d4a0e_LogicalPartition";

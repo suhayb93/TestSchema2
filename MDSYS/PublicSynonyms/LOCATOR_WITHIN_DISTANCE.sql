@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM locator_within_distance FOR mdsys.locator_within_distance;

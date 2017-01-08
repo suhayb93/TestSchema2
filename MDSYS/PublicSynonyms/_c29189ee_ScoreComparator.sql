@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c29189ee_ScoreComparator" FOR mdsys."/c29189ee_ScoreComparator";

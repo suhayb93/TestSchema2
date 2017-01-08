@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM asbinary FOR mdsys.ogc_asbinary;

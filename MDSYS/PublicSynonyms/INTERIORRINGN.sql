@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM interiorringn FOR mdsys.ogc_interiorringn;

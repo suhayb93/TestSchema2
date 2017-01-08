@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/66d4cbab_NetworkCache" FOR mdsys."/66d4cbab_NetworkCache";

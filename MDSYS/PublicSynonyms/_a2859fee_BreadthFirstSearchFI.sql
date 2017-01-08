@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a2859fee_BreadthFirstSearchFI" FOR mdsys."/a2859fee_BreadthFirstSearchFI";

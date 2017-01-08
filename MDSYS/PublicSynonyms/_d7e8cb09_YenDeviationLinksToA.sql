@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/d7e8cb09_YenDeviationLinksToA" FOR mdsys."/d7e8cb09_YenDeviationLinksToA";

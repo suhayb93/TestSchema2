@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_relatemask_table FOR mdsys.sdo_relatemask_table;

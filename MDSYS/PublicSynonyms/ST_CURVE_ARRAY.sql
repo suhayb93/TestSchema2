@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_curve_array FOR mdsys.st_curve_array;

@@ -1,0 +1,13 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.OGC_Area(
+  s ST_Geometry)
+    RETURN NUMBER DETERMINISTIC IS
+BEGIN
+  IF(nls_upper(OGC_GeometryType(s)) IN ('POLYGON', 'ST_POLYGON')) THEN
+    RETURN TREAT(s AS ST_Surface).ST_Area();
+  END IF;
+  IF(nls_upper(OGC_GeometryType(s)) IN ('MULTIPOLYGON', 'ST_MULTIPOLYGON')) THEN
+    RETURN TREAT(s AS ST_MultiSurface).ST_Area();
+  END IF;
+  RETURN NULL;
+END OGC_Area;
+/

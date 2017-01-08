@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b5956ed3_ResolutionType" FOR mdsys."/b5956ed3_ResolutionType";

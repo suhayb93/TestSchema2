@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_ellipsoids_old_format FOR mdsys.sdo_ellipsoids_old_format;

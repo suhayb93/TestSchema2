@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/8a3c8c23_MinimumSpanningTree" FOR mdsys."/8a3c8c23_MinimumSpanningTree";

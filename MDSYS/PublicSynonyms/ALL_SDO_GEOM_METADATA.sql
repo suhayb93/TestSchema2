@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM all_sdo_geom_metadata FOR mdsys.all_sdo_geom_metadata;

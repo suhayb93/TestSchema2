@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE NONEDITIONABLE VIEW mdsys.cs_srs (cs_name,srid,auth_srid,auth_name,wktext,cs_bounds,wktext3d) AS
+(SELECT "CS_NAME","SRID","AUTH_SRID","AUTH_NAME","WKTEXT","CS_BOUNDS","WKTEXT3D" FROM mdsys.SDO_CS_SRS);

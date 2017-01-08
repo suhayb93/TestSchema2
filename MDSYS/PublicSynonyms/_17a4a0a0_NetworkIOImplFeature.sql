@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/17a4a0a0_NetworkIOImplFeature" FOR mdsys."/17a4a0a0_NetworkIOImplFeature";

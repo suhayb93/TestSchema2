@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b5d1850_YenDeviation1" FOR mdsys."/b5d1850_YenDeviation1";

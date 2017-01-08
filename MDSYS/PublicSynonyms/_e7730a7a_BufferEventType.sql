@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e7730a7a_BufferEventType" FOR mdsys."/e7730a7a_BufferEventType";

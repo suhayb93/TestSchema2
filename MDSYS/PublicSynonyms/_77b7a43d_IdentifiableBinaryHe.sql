@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/77b7a43d_IdentifiableBinaryHe" FOR mdsys."/77b7a43d_IdentifiableBinaryHe";

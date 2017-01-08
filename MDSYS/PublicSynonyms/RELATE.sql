@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM relate FOR mdsys.ogc_relate;

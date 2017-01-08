@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_datum_geodetic FOR mdsys.sdo_datum_geodetic;

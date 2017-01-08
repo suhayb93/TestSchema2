@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_geometry_array FOR mdsys.sdo_geometry_array;

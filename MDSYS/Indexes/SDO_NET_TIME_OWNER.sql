@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_net_time_owner ON mdsys.sdo_network_timestamps("OWNER");

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM intersection FOR mdsys.ogc_intersection;

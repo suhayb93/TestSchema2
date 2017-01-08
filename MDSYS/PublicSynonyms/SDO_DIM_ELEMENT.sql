@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_dim_element FOR mdsys.sdo_dim_element;

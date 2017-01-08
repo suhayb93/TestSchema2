@@ -1,0 +1,4 @@
+CREATE GLOBAL TEMPORARY TABLE mdsys.sdo_geor_ddl__table$$ (
+  "ID" NUMBER
+)
+ON COMMIT PRESERVE ROWS;

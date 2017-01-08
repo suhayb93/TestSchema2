@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/86528b85_HeavyPointOnNet" FOR mdsys."/86528b85_HeavyPointOnNet";

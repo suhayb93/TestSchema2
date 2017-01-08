@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ea762d56_ShapefileFeatureJGeo" FOR mdsys."/ea762d56_ShapefileFeatureJGeo";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_get_ityp_name FOR mdsys.sdo_get_ityp_name;

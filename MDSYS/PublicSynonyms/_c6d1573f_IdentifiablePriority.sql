@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c6d1573f_IdentifiablePriority" FOR mdsys."/c6d1573f_IdentifiablePriority";

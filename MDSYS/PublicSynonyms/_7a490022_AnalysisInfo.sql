@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/7a490022_AnalysisInfo" FOR mdsys."/7a490022_AnalysisInfo";

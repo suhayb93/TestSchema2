@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c7118277_NetworkBufferElement" FOR mdsys."/c7118277_NetworkBufferElement";

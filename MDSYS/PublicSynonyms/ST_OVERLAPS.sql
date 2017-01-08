@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_overlaps FOR mdsys.sdo_overlaps;

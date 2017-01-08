@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/730286c8_FeatureData" FOR mdsys."/730286c8_FeatureData";

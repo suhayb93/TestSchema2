@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/fd445bc3_RTreeComparatorImpl" FOR mdsys."/fd445bc3_RTreeComparatorImpl";

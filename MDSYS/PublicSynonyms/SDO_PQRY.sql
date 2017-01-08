@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_pqry FOR mdsys.sdo_pqry;

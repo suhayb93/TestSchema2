@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/fcf5a9d_AdapterShapefileJGeom" FOR mdsys."/fcf5a9d_AdapterShapefileJGeom";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/3d5d357e_TspOp2ComparablePoin" FOR mdsys."/3d5d357e_TspOp2ComparablePoin";

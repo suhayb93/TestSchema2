@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM numgeometries FOR mdsys.ogc_numgeometries;

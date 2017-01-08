@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_relate_mask FOR mdsys.sdo_relate_mask;

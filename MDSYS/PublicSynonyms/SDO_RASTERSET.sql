@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_rasterset FOR mdsys.sdo_rasterset;

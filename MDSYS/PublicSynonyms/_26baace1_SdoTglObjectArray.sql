@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/26baace1_SdoTglObjectArray" FOR mdsys."/26baace1_SdoTglObjectArray";

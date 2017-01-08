@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/util/RTree$Span" FOR mdsys."oracle/spatial/util/RTree$Span";

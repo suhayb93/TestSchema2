@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_themes_idx ON mdsys.sdo_themes_table(sdo_owner,base_table);

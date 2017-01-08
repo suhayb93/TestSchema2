@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_surface_array FOR mdsys.st_surface_array;

@@ -1,0 +1,4 @@
+CREATE OR REPLACE FORCE NONEDITIONABLE VIEW mdsys.user_sdo_styles ("NAME","TYPE",description,definition,image,geometry) AS
+SELECT NAME, TYPE, DESCRIPTION,DEFINITION, IMAGE,GEOMETRY
+FROM SDO_STYLES_TABLE
+WHERE sdo_owner = sys_context('userenv', 'CURRENT_SCHEMA');

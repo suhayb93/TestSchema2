@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/83a09182_Geocoder" FOR mdsys."/83a09182_Geocoder";

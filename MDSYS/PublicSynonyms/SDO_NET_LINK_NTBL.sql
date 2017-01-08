@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_net_link_ntbl FOR mdsys.sdo_net_link_ntbl;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/cdd52aef_NetworkIOConfig" FOR mdsys."/cdd52aef_NetworkIOConfig";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM exteriorring FOR mdsys.ogc_exteriorring;

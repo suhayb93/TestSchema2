@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1b8d2539_SpatialNetNode" FOR mdsys."/1b8d2539_SpatialNetNode";

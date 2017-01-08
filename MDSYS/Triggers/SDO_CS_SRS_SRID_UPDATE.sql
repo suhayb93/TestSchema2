@@ -1,0 +1,7 @@
+CREATE OR REPLACE NONEDITIONABLE TRIGGER mdsys.SDO_CS_SRS_SRID_UPDATE
+AFTER UPDATE OR DELETE ON mdsys.SDO_CS_SRS
+FOR EACH ROW
+BEGIN
+  mdsys.mdprvt_srid.sdo_invalidate_srid_metadata(:old.srid);
+END;
+/

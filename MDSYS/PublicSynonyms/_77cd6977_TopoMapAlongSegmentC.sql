@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/77cd6977_TopoMapAlongSegmentC" FOR mdsys."/77cd6977_TopoMapAlongSegmentC";

@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE NONEDITIONABLE VIEW mdsys.all_sdo_network_constraints ("OWNER","CONSTRAINT",description,class_name,"CLASS") AS
+SELECT  sdo_owner owner, constraint, description, class_name, class     FROM  sdo_network_constraints     WHERE EXISTS       (SELECT  NULL         FROM  all_java_classes          WHERE owner = sdo_owner            AND name = class_name );

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM geometrycollection FOR mdsys.st_geomcollection;

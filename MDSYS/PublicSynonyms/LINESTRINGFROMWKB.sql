@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM linestringfromwkb FOR mdsys.ogc_linestringfromwkb;

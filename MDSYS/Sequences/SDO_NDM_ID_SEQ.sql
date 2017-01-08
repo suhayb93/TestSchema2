@@ -1,0 +1,1 @@
+CREATE SEQUENCE mdsys.sdo_ndm_id_seq NOCACHE;

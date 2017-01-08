@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/3db48bb6_ShortestPathAStar" FOR mdsys."/3db48bb6_ShortestPathAStar";

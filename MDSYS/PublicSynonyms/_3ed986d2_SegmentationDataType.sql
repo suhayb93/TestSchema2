@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/3ed986d2_SegmentationDataType" FOR mdsys."/3ed986d2_SegmentationDataType";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/4944b492_PSSegmentMonotoneUpd" FOR mdsys."/4944b492_PSSegmentMonotoneUpd";

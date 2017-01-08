@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/95d4ab06_PathFeatureImpl" FOR mdsys."/95d4ab06_PathFeatureImpl";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/34cfa393_LinkLevelGoalNode" FOR mdsys."/34cfa393_LinkLevelGoalNode";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM cs_srs FOR mdsys.cs_srs;

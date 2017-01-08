@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/da47053a_SpatialSort2" FOR mdsys."/da47053a_SpatialSort2";

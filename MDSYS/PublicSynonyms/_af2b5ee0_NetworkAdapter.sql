@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/af2b5ee0_NetworkAdapter" FOR mdsys."/af2b5ee0_NetworkAdapter";

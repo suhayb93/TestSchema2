@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/f6c2be6c_SpatialNode" FOR mdsys."/f6c2be6c_SpatialNode";

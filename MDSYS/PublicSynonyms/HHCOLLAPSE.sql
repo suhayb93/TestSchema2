@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhcollapse FOR mdsys.hhcollapse;

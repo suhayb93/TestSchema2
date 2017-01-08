@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_multipolygon FOR mdsys.st_multipolygon;

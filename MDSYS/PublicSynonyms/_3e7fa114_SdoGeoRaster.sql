@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/3e7fa114_SdoGeoRaster" FOR mdsys."/3e7fa114_SdoGeoRaster";

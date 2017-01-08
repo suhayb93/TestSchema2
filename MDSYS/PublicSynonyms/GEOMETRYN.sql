@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM geometryn FOR mdsys.ogc_geometryn;

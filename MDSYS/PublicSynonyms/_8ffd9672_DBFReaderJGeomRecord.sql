@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/8ffd9672_DBFReaderJGeomRecord" FOR mdsys."/8ffd9672_DBFReaderJGeomRecord";

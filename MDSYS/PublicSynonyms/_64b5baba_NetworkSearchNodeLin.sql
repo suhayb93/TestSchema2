@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/64b5baba_NetworkSearchNodeLin" FOR mdsys."/64b5baba_NetworkSearchNodeLin";

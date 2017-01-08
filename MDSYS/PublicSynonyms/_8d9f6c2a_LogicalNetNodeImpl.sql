@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/8d9f6c2a_LogicalNetNodeImpl" FOR mdsys."/8d9f6c2a_LogicalNetNodeImpl";

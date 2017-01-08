@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/9ccd36de_YenDeviationPathKey" FOR mdsys."/9ccd36de_YenDeviationPathKey";

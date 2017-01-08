@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/security/ORC" FOR mdsys."oracle/spatial/security/ORC";

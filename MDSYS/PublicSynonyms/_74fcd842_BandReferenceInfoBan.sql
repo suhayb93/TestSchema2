@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/74fcd842_BandReferenceInfoBan" FOR mdsys."/74fcd842_BandReferenceInfoBan";

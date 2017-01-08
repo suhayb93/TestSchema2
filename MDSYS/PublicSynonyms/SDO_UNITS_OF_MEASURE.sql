@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_units_of_measure FOR mdsys.sdo_units_of_measure;

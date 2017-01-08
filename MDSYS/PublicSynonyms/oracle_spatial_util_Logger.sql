@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/util/Logger" FOR mdsys."oracle/spatial/util/Logger";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_link_t FOR mdsys.sdo_link_t;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_circularstring FOR mdsys.st_circularstring;

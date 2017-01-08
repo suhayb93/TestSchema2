@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/geometry/Chain" FOR mdsys."oracle/spatial/geometry/Chain";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_tfm_chain FOR mdsys.sdo_tfm_chain;

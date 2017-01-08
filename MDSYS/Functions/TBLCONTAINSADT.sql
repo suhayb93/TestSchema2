@@ -1,0 +1,25 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.TblContainsAdt wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+183 11f
+WYKP5gON8yWuvJ3sO/A95LeIySowg43QACisfC9AkHOUsrYU3OLcgCaDGnHXUs5/KhZt9LOv
++bUwxaIU0Z8nmjMQI3LCYNc8jAaG6ZriLa0Pu1DUd7tQyMJNYWcjsiFPLj1Pbai/G8qJyYX6
+RoRA9uYCMlgkJCYUZRLfRo+R+CcUCDC9sEgOUKB/9/0Xx+F7Fq7pk0bsTMhdMRmTh9XN90Tv
+xrLIfDZUY0xX7Pl5wQ07dVbiyeWxYtg5MyEjInyI9bzkPx/as3IyT+eLeU9iGygRfUwq
+/

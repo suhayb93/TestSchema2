@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_annot_textelement_array FOR mdsys.st_annot_textelement_array;

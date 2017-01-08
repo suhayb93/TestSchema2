@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c5ce9400_NetworkIOImplConfigP" FOR mdsys."/c5ce9400_NetworkIOImplConfigP";

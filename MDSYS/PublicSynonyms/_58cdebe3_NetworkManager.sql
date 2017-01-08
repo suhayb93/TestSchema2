@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/58cdebe3_NetworkManager" FOR mdsys."/58cdebe3_NetworkManager";

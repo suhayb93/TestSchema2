@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ogc_length FOR mdsys.ogc_length;

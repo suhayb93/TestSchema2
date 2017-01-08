@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/14d9fd6f_GeorFunctionalFittin" FOR mdsys."/14d9fd6f_GeorFunctionalFittin";

@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE NONEDITIONABLE VIEW mdsys.tokensessionmap$ (sessionid,tokenid,expirytime,expiryoffset) AS
+select sessionId , tokenId , expiryTime, expiryOffset from mdsys.TokenSessionMap_t$ where (tokenId in (select tokenId from mdsys.CurrentSessionTokenMap$ where sessionId in (select dbms_session.unique_session_id from dual))) or expiryTime < sysdate;

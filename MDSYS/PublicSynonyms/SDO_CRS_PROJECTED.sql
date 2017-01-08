@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_crs_projected FOR mdsys.sdo_crs_projected;

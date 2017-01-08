@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/760c03bc_DefaultPairwiseShort" FOR mdsys."/760c03bc_DefaultPairwiseShort";

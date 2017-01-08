@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/f6f51381_PartitionBlobTransla" FOR mdsys."/f6f51381_PartitionBlobTransla";

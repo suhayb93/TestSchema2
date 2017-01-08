@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e1a7b4b4_Feature" FOR mdsys."/e1a7b4b4_Feature";

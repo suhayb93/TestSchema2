@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pointfromtext FOR mdsys.ogc_pointfromtext;

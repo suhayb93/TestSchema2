@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_multilinestring FOR mdsys.st_multilinestring;

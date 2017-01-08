@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM all_sdo_3dthemes FOR mdsys.all_sdo_3dthemes;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_intersects FOR mdsys.sdo_anyinteract;

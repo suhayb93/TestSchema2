@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/83a9f125_SeedGeneratormyPA" FOR mdsys."/83a9f125_SeedGeneratormyPA";

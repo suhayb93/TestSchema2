@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/17c74781_LongLinkedHashMapEnt" FOR mdsys."/17c74781_LongLinkedHashMapEnt";

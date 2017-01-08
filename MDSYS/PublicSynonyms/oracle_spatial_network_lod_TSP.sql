@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/network/lod/TSP" FOR mdsys."oracle/spatial/network/lod/TSP";

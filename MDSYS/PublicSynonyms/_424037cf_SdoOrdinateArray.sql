@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/424037cf_SdoOrdinateArray" FOR mdsys."/424037cf_SdoOrdinateArray";

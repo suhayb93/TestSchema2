@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/eca87f72_GeorGrayscale" FOR mdsys."/eca87f72_GeorGrayscale";

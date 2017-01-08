@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_regionset FOR mdsys.sdo_regionset;

@@ -1,0 +1,30 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE mdsys.prvt_sam wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+56e 248
+JQHyim+ffj5jqIJon2I0YM/93iwwg2OJr0gFfHRAvxlepTyOBEBhB0zACRTUqMXZq6EBCKG0
+HXQWgzhyD54R8FcMVfXr+onOoRSqJTE6ErGoenr5OkxPP/nh6vWA+8841BoN52VXOuT+4bSn
+XY1ANv2OO+IeBNqwVIaPTAWcjUUu210jRu0LncfP/kR0z/Y6qP+QH88Fx1zGX1yJPjKchDOX
+gHXDkrLAAeSHVi50lv0fymphGB7HeuWF2fM2aEXTlEidYkDVvMtxHRhP5pBQ1RH46gzPfJMU
+hohXjQScWpm0oAqCKiKeT+WthmTwF3cVvZLKjM+NfHc8JOjIDoPe6F/300CBNDF7diPDHLpC
+jWbiBqVqGBAwPUTy/8Yz5g5id9RKSYow8wxe1d2oUIcb9m6TFbeGMRoPTi2bFsCu9KL6hJ+K
+4NtUeT9+4zwDq+eTurOfbo9c+FfHKQZTDctrHEp8ggoLn4bAi8jt19qMCht+/NidJklE8rDN
+EP7/AIuH+sKnx4rX2ku5BAF422k+Qrm3lySiS4ArejSQ3dcq5JwRdeGRGfb4ttgkAB2pRyGC
+
+/

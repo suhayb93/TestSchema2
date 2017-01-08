@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/network/Cache" FOR mdsys."oracle/spatial/network/Cache";

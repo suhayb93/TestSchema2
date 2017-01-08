@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6b8ab103_Compressor" FOR mdsys."/6b8ab103_Compressor";

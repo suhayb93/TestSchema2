@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_net_feat_elem_array FOR mdsys.sdo_net_feat_elem_array;

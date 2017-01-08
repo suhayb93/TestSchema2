@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/407ee586_BufferChainSplitter" FOR mdsys."/407ee586_BufferChainSplitter";

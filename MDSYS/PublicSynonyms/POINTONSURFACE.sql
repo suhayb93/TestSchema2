@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pointonsurface FOR mdsys.ogc_pointonsurface;

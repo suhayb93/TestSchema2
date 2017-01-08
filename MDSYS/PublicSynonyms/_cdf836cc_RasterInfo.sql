@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/cdf836cc_RasterInfo" FOR mdsys."/cdf836cc_RasterInfo";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/9e50d21e_NetworkSearchFeature" FOR mdsys."/9e50d21e_NetworkSearchFeature";

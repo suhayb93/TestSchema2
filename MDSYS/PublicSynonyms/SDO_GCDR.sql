@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_gcdr FOR mdsys.sdo_gcdr;

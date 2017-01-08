@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/4049c980_LogicalLightPath" FOR mdsys."/4049c980_LogicalLightPath";

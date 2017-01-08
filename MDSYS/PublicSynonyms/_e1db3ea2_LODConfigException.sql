@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e1db3ea2_LODConfigException" FOR mdsys."/e1db3ea2_LODConfigException";

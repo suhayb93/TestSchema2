@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/470e1c1c_PostalCodeCache" FOR mdsys."/470e1c1c_PostalCodeCache";

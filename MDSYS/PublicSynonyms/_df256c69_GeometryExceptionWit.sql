@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/df256c69_GeometryExceptionWit" FOR mdsys."/df256c69_GeometryExceptionWit";

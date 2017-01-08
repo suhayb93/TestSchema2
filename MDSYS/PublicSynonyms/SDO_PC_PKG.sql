@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_pc_pkg FOR mdsys.sdo_pc_pkg;

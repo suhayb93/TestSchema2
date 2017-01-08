@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_overlapbdyintersect FOR mdsys.sdo_overlapbdyintersect;

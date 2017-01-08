@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/97736ae5_linkComparator" FOR mdsys."/97736ae5_linkComparator";

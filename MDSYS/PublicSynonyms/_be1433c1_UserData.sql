@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/be1433c1_UserData" FOR mdsys."/be1433c1_UserData";

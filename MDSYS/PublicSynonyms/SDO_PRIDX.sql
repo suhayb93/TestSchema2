@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_pridx FOR mdsys.sdo_pridx;

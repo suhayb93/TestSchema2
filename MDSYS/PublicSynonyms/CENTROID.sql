@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM centroid FOR mdsys.ogc_centroid;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_feature FOR mdsys.mdprvt_feature;

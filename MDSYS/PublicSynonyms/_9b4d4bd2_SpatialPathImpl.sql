@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/9b4d4bd2_SpatialPathImpl" FOR mdsys."/9b4d4bd2_SpatialPathImpl";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/48530578_KeywordTable" FOR mdsys."/48530578_KeywordTable";

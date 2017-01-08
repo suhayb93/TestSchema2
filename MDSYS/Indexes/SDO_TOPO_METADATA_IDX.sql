@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_topo_metadata_idx ON mdsys.sdo_topo_metadata_table(sdo_owner,topology,topology_id);

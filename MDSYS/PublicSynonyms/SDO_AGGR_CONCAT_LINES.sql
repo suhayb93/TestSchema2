@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_aggr_concat_lines FOR mdsys.sdo_aggr_concat_lines;

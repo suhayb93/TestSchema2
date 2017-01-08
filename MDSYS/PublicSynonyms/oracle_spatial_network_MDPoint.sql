@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/network/MDPoint" FOR mdsys."oracle/spatial/network/MDPoint";

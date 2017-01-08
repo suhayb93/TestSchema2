@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_coord_ref_sys_kind ON mdsys.sdo_coord_ref_sys(coord_ref_sys_kind);

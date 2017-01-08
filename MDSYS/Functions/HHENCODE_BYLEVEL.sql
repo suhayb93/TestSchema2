@@ -1,0 +1,14 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.hhencode_bylevel (
+       v01 IN NUMBER, l01 IN NUMBER, u01 IN NUMBER, p01 IN BINARY_INTEGER,
+       v02 IN NUMBER:=NULL, l02 IN NUMBER:=NULL, u02 IN NUMBER:=NULL,
+       p02 IN BINARY_INTEGER:=NULL,
+       v03 IN NUMBER:=NULL, l03 IN NUMBER:=NULL, u03 IN NUMBER:=NULL,
+       p03 IN BINARY_INTEGER:=NULL,
+       v04 IN NUMBER:=NULL, l04 IN NUMBER:=NULL, u04 IN NUMBER:=NULL,
+       p04 IN BINARY_INTEGER:=NULL)
+    RETURN RAW IS
+begin
+ return md.hhencode_bylevel(v01, l01, u01, p01, v02, l02, u02, p02,
+                            v03, l03, u03, p03, v04, l04, u04, p04);
+end;
+/

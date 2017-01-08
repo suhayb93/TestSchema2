@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ac4b66e4_UserDataMetadata" FOR mdsys."/ac4b66e4_UserDataMetadata";

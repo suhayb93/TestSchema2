@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM area FOR mdsys.ogc_area;

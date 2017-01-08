@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/3e44ae94_Abstract2DGeomCostFu" FOR mdsys."/3e44ae94_Abstract2DGeomCostFu";

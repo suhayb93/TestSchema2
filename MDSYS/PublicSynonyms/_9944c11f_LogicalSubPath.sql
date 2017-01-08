@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/9944c11f_LogicalSubPath" FOR mdsys."/9944c11f_LogicalSubPath";

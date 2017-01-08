@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/13b78f65_LogicalHeavyPath" FOR mdsys."/13b78f65_LogicalHeavyPath";

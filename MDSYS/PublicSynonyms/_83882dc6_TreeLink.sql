@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/83882dc6_TreeLink" FOR mdsys."/83882dc6_TreeLink";

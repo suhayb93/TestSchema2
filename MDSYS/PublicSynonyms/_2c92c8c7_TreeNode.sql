@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/2c92c8c7_TreeNode" FOR mdsys."/2c92c8c7_TreeNode";

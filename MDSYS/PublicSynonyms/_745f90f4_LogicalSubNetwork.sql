@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/745f90f4_LogicalSubNetwork" FOR mdsys."/745f90f4_LogicalSubNetwork";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_annotation_text_metadata FOR mdsys.user_annotation_text_metadata;

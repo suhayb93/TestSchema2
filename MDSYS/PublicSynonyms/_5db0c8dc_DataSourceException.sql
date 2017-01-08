@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/5db0c8dc_DataSourceException" FOR mdsys."/5db0c8dc_DataSourceException";

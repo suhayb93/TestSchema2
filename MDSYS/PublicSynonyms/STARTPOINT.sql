@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM startpoint FOR mdsys.ogc_startpoint;

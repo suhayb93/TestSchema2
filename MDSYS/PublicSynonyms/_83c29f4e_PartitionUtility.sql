@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/83c29f4e_PartitionUtility" FOR mdsys."/83c29f4e_PartitionUtility";

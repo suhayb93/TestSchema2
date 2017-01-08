@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/876cf54_RTreeStackEntry" FOR mdsys."/876cf54_RTreeStackEntry";

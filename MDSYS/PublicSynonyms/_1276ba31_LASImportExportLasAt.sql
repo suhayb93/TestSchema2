@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1276ba31_LASImportExportLasAt" FOR mdsys."/1276ba31_LASImportExportLasAt";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhsubstr FOR mdsys.hhsubstr;

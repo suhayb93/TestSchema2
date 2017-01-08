@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhlength FOR mdsys.hhlength;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM isempty FOR mdsys.ogc_isempty;

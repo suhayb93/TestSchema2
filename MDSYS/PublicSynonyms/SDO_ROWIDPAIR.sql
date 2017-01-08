@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_rowidpair FOR mdsys.sdo_rowidpair;

@@ -1,0 +1,2 @@
+CREATE OR REPLACE NONEDITIONABLE type mdsys.SDONUMLIST is table of number
+/

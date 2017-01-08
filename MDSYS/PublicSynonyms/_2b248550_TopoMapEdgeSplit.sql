@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/2b248550_TopoMapEdgeSplit" FOR mdsys."/2b248550_TopoMapEdgeSplit";

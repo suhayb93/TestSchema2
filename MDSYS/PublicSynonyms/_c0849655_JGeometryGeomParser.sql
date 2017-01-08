@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c0849655_JGeometryGeomParser" FOR mdsys."/c0849655_JGeometryGeomParser";

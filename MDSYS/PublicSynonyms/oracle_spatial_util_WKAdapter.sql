@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/util/WKAdapter" FOR mdsys."oracle/spatial/util/WKAdapter";

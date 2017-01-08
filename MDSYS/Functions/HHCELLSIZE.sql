@@ -1,0 +1,8 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.hhcellsize (
+      l01 IN NUMBER,      u01 IN NUMBER,      lv01 IN BINARY_INTEGER,
+      l02 IN NUMBER:=NULL,u02 IN NUMBER:=NULL,lv02 IN BINARY_INTEGER:=NULL)
+    RETURN NUMBER IS
+begin
+  return md.hhcellsize(l01,u01,lv01,l02,u02,lv02);
+end;
+/

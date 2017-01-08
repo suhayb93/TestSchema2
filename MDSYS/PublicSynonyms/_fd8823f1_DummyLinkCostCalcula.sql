@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/fd8823f1_DummyLinkCostCalcula" FOR mdsys."/fd8823f1_DummyLinkCostCalcula";

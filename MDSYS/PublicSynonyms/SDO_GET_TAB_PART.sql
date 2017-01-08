@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_get_tab_part FOR mdsys.sdo_get_tab_part;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM isclosed FOR mdsys.ogc_isclosed;

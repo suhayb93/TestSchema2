@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6e6e19d7_FeatureLayer" FOR mdsys."/6e6e19d7_FeatureLayer";

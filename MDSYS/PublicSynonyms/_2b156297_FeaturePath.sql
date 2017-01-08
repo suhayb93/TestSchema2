@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/2b156297_FeaturePath" FOR mdsys."/2b156297_FeaturePath";

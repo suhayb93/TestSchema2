@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/783319fb_FormatTransformer" FOR mdsys."/783319fb_FormatTransformer";

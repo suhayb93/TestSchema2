@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_available_non_elem_ops FOR mdsys.sdo_available_non_elem_ops;

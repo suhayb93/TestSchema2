@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/324fdcae_TopoMapWrapper" FOR mdsys."/324fdcae_TopoMapWrapper";

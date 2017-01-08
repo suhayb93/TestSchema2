@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6bd9035c_Buffer5" FOR mdsys."/6bd9035c_Buffer5";

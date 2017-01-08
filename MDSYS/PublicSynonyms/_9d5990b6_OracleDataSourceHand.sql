@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/9d5990b6_OracleDataSourceHand" FOR mdsys."/9d5990b6_OracleDataSourceHand";

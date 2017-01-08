@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/20efaa47_JGeometryChainConver" FOR mdsys."/20efaa47_JGeometryChainConver";

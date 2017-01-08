@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhmaxcode FOR mdsys.hhmaxcode;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_range_array FOR mdsys.sdo_range_array;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/dbb4d19d_Buffer6" FOR mdsys."/dbb4d19d_Buffer6";

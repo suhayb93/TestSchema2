@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_curve FOR mdsys.st_curve;

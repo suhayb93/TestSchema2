@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/33a29762_ElocationTruckDataTr" FOR mdsys."/33a29762_ElocationTruckDataTr";

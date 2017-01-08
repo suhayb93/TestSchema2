@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/facfc21e_SkipListData" FOR mdsys."/facfc21e_SkipListData";

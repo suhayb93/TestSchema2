@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e34598e8_PartitionPair" FOR mdsys."/e34598e8_PartitionPair";

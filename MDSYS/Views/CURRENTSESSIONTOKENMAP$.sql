@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE NONEDITIONABLE VIEW mdsys.currentsessiontokenmap$ (sessionid,tokenid) AS
+select sessionId , tokenId from mdsys.CurrentSessionTokenMap_t$ where sessionId in (select dbms_session.unique_session_id from dual);

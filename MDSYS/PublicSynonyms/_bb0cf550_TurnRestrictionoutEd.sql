@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/bb0cf550_TurnRestrictionoutEd" FOR mdsys."/bb0cf550_TurnRestrictionoutEd";

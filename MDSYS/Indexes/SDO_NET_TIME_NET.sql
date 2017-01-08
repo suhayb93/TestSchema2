@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_net_time_net ON mdsys.sdo_network_timestamps("NETWORK");

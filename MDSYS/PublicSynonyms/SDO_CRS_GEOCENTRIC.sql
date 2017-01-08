@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_crs_geocentric FOR mdsys.sdo_crs_geocentric;

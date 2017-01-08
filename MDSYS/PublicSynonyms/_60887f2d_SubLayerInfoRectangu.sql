@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/60887f2d_SubLayerInfoRectangu" FOR mdsys."/60887f2d_SubLayerInfoRectangu";

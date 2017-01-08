@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhcompose FOR mdsys.hhcompose;

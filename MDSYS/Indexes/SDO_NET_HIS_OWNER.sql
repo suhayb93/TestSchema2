@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_net_his_owner ON mdsys.sdo_network_histories("OWNER");

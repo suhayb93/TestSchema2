@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/764908cc_ShapefileReaderJGeom" FOR mdsys."/764908cc_ShapefileReaderJGeom";

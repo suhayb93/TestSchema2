@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_overlapbdydisjoint FOR mdsys.sdo_overlapbdydisjoint;

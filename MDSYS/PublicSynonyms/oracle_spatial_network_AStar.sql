@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/network/AStar" FOR mdsys."oracle/spatial/network/AStar";

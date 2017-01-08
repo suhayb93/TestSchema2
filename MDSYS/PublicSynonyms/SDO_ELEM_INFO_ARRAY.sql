@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_elem_info_array FOR mdsys.sdo_elem_info_array;

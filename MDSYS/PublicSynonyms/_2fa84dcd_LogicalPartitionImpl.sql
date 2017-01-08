@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/2fa84dcd_LogicalPartitionImpl" FOR mdsys."/2fa84dcd_LogicalPartitionImpl";

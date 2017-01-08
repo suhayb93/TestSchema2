@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/78331538_JGeometryPoint" FOR mdsys."/78331538_JGeometryPoint";

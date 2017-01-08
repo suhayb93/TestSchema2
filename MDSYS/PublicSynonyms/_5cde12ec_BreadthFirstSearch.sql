@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/5cde12ec_BreadthFirstSearch" FOR mdsys."/5cde12ec_BreadthFirstSearch";

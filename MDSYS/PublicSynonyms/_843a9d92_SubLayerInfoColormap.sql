@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/843a9d92_SubLayerInfoColormap" FOR mdsys."/843a9d92_SubLayerInfoColormap";

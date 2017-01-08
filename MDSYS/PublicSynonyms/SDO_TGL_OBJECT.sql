@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_tgl_object FOR mdsys.sdo_tgl_object;

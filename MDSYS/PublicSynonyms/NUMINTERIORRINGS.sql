@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM numinteriorrings FOR mdsys.ogc_numinteriorrings;

@@ -1,0 +1,32 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE mdsys.sdo_rtree_admin wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+91c 2de
+pyftdoOvCB9ssdYEQSTt4tuLrM0wg9dcACAFfC/Nig9SC3TnpMInUfq36UYs/Pf1zdGiN5F9
+UG9a+LWzt3bq8YxU8naOQ903vL/PuwiQPedCSWHnnbmqi8aa0CgoOh5z/iAkZxpU9kRl82tt
+rUQULzgNo/vD+vpN7dbyE+P1A+kgNdpLxXYVxg7PYf3FDgC8ED//sv+clO7iYmi98Q0OBeGg
+gxeI/lDh7fGj2gISInXmB2HIsyLpDlrjvgr/bwvNXK+dmJfjYlOReFr2uWcEtoGxje/M/0xJ
+fc3gGYSF26sR9j4s2tmj/ZWKai7IKqPuRpXzHr2MgAqMb5XUXzgO9RdV94Z+Hwbjso8dLu3G
+O80EKaaerXkr2qRRp1Dn09QO+n2jb2yE/dO61VOE4xoBR0aUwCNswpfBl5nOisPEeDS2ux7e
+HZZXheS1uluuUoaeaqft/w4rtMDW0bR39F2qyHhF0tEbkEIh6hxB/E/s1st2NcssB7m7KZ1a
+/PpFlbtQM4HTXGZG1Hj64+NYNNA6/KEkgO1uRvqOFnSbGJNYGmmmR92DugOvpOxDkyniBh9t
+Rbd8U9AFXGZYhfBfk2qiplSogA12JNuzpqd+yw+4Tar0zocwZJIJraredTX+RJM2Eee/Orf0
+B8tlu1CTKUVGs9bV8+mnIu16ud3Sp7z59aUjmtB2ydQmsPWr7+yrG/UnL+prMDDZKKqm5bjn
+SQ==
+/

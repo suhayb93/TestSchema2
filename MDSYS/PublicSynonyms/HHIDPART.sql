@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhidpart FOR mdsys.hhidpart;

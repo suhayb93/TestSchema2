@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_inside FOR mdsys.sdo_inside;

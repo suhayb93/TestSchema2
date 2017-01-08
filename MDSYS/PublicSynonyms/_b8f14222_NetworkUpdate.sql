@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b8f14222_NetworkUpdate" FOR mdsys."/b8f14222_NetworkUpdate";

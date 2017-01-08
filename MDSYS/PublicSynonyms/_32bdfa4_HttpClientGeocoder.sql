@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/32bdfa4_HttpClientGeocoder" FOR mdsys."/32bdfa4_HttpClientGeocoder";

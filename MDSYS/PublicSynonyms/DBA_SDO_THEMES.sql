@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dba_sdo_themes FOR mdsys.dba_sdo_themes;

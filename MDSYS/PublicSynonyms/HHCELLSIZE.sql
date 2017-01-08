@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhcellsize FOR mdsys.hhcellsize;

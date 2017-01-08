@@ -1,0 +1,30 @@
+CREATE OR REPLACE NONEDITIONABLE package mdsys.SDO_TOPO_METADATA_INT wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+8ab 278
+XZ8iWnM4VBawfbdIHFy4nHnuU+cwg9enLsDWfHQCmIuOh+iCTDIFjeDVSrrvguYhOEP4mlHf
+FPvxoMjSF5fFHXopOhJg3ESSslblg0YWa54tovsd4bP3Fk1tUWmUW/DoOMNaSzME8AjMtJNt
+5GVCy9SiFO4rO8O088J7cUp32ksZ4SQklPySjQX4cLoybYXMevxRgu3j7MDw5Oks0HQaUncX
+YAnH6hJon9zgbjIJxqLe1X9+UTXN8qWZiV8yhgH17yHA4QgwvWinmnBBThQWCDnwy7w+3i9i
+swTqQIEeRg8ZUimfNskRu8pPoV/MBMs9LCC8uvH8inORw78BKm+QHUcSoYq+DZh9YiW0fWvN
+q6SfhHiqVkAhrFPNLP/lToAktaGtZVPQHUBS3G3rc8Vx0hYwNbuqUfh5BFMfOWLtsErU/KCF
+bAran31X3EcySyPBF3OAzY0ocJ/e9zi/7WTxEBkqvhV8oWBE7MWQqjCJPyvv2imZY9bT66HO
+TRvfoMbSZX1i/+pXtIVE37LeUjfD0/zEQTgjCzLkf18kXF3DGu5rESWuVn43VkgaHWH8QodU
+fa7co3Vfd/rqvRcB3Lfek/MVTDTloTXKWB616YccIqbNyYM/
+/

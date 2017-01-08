@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_lrs_meta_idx ON mdsys.sdo_lrs_metadata_table(sdo_owner,sdo_table_name);

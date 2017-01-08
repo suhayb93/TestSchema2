@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b84d073_GeorColormap" FOR mdsys."/b84d073_GeorColormap";

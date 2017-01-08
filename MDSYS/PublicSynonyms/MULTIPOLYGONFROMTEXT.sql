@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM multipolygonfromtext FOR mdsys.ogc_multipolygonfromtext;

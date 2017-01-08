@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM md_lrs FOR mdsys.md_lrs;

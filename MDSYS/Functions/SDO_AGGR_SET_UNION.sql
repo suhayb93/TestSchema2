@@ -1,0 +1,24 @@
+CREATE OR REPLACE NONEDITIONABLE function mdsys.SDO_Aggr_Set_Union wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+b8 ce
+HQOnFpUr8I2TSX4pChuJqUf5NAQwg3lKLZ4VZy+iO06UuqvI5GflDEgAbzQAtFXV4oPyrC42
+CLXMHbPUSATJMLtxQt/FdKttBwFCU4dPh7EFEAAbVoguq11NLgdy4GR640af4dUfj+xJibwd
+L6DF5BfL87Jstrer12eDLnXjqpzwQfF0ErjpTpcgA2TUYB7Gy61KBx+3HSFW
+/

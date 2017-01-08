@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/9a7a58f9_JGeoRasterMeta" FOR mdsys."/9a7a58f9_JGeoRasterMeta";

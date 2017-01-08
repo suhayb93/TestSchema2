@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/7ed52a95_GCServer" FOR mdsys."/7ed52a95_GCServer";

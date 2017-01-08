@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6c25142c_JGeometryElementIter" FOR mdsys."/6c25142c_JGeometryElementIter";

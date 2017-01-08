@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/d779e532_SpatialSubPath" FOR mdsys."/d779e532_SpatialSubPath";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a7a60acc_ExtendedKML2" FOR mdsys."/a7a60acc_ExtendedKML2";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_txn_idx_inserts FOR mdsys.sdo_txn_idx_inserts;

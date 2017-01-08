@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_index_metadata FOR mdsys.user_sdo_index_metadata;

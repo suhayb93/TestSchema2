@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6a4fffa1_JGeoRasterAdapter" FOR mdsys."/6a4fffa1_JGeoRasterAdapter";

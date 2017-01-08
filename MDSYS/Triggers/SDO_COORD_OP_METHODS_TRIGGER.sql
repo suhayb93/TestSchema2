@@ -1,0 +1,13 @@
+CREATE OR REPLACE NONEDITIONABLE TRIGGER
+  mdsys.SDO_COORD_OP_METHODS_TRIGGER
+BEFORE
+  INSERT OR
+  UPDATE OR
+  DELETE
+ON
+  mdsys.SDO_COORD_OP_METHODS
+FOR EACH ROW
+BEGIN
+  mdsys.MDERR.RAISE_MD_ERROR('MD', 'SDO', -13199, 'This cannot change the actual implementation status of a method.');
+END;
+/

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ba70dab1_ConnectionManager" FOR mdsys."/ba70dab1_ConnectionManager";

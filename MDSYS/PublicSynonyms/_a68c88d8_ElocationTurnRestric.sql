@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a68c88d8_ElocationTurnRestric" FOR mdsys."/a68c88d8_ElocationTurnRestric";

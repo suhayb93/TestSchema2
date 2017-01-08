@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_router_partition FOR mdsys.sdo_router_partition;

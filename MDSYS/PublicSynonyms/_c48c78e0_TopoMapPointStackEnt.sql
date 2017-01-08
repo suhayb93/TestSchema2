@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c48c78e0_TopoMapPointStackEnt" FOR mdsys."/c48c78e0_TopoMapPointStackEnt";

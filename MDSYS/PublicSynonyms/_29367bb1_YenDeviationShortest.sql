@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/29367bb1_YenDeviationShortest" FOR mdsys."/29367bb1_YenDeviationShortest";

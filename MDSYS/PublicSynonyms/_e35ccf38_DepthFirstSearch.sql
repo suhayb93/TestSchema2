@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e35ccf38_DepthFirstSearch" FOR mdsys."/e35ccf38_DepthFirstSearch";

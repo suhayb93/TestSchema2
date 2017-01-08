@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM difference FOR mdsys.ogc_difference;

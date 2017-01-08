@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_covers FOR mdsys.sdo_covers;

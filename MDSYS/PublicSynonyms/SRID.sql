@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM srid FOR mdsys.ogc_srid;

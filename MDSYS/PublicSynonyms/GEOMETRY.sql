@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM geometry FOR mdsys.st_geometry;

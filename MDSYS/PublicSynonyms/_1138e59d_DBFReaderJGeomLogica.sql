@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1138e59d_DBFReaderJGeomLogica" FOR mdsys."/1138e59d_DBFReaderJGeomLogica";

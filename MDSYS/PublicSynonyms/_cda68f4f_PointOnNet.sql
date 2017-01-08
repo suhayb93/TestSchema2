@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/cda68f4f_PointOnNet" FOR mdsys."/cda68f4f_PointOnNet";

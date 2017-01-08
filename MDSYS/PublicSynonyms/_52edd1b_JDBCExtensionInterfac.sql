@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/52edd1b_JDBCExtensionInterfac" FOR mdsys."/52edd1b_JDBCExtensionInterfac";

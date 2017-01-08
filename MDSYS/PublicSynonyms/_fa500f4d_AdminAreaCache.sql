@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/fa500f4d_AdminAreaCache" FOR mdsys."/fa500f4d_AdminAreaCache";

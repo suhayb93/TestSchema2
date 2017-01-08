@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_srid_list FOR mdsys.sdo_srid_list;

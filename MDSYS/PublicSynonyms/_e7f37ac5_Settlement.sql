@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e7f37ac5_Settlement" FOR mdsys."/e7f37ac5_Settlement";

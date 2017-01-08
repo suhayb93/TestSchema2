@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/fae2cb0b_GeocoderVersion" FOR mdsys."/fae2cb0b_GeocoderVersion";

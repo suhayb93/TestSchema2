@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/topo/Point2DD" FOR mdsys."oracle/spatial/topo/Point2DD";

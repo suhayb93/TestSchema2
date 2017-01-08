@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/24fc3c97_DbConnection" FOR mdsys."/24fc3c97_DbConnection";

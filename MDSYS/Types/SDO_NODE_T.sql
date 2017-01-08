@@ -1,0 +1,195 @@
+CREATE OR REPLACE NONEDITIONABLE TYPE mdsys.SDO_NODE_T
+  AUTHID current_user
+  AS OBJECT(
+  object_id INTEGER,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_cost(
+    net_mem   VARCHAR2, node_id   NUMBER
+  ) RETURN NUMBER DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_hierarchy_level(
+   net_mem   VARCHAR2, node_id   NUMBER
+  ) RETURN NUMBER DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_state(
+   net_mem   VARCHAR2, node_id   NUMBER
+  ) RETURN VARCHAR2 DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_type(
+   net_mem   VARCHAR2, node_id   NUMBER
+  ) RETURN VARCHAR2 DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_name(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN VARCHAR2 DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_partition_id(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN NUMBER DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_component_no(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN NUMBER DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_in_link_ids(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN SDO_NUMBER_ARRAY DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_out_link_ids(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN SDO_NUMBER_ARRAY DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_incident_link_ids(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN SDO_NUMBER_ARRAY DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_child_node_ids(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN SDO_NUMBER_ARRAY DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_adjacent_node_ids(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN SDO_NUMBER_ARRAY DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_sibling_node_ids(
+    net_mem VARCHAR2, id NUMBER)
+    RETURN SDO_NUMBER_ARRAY DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_geometry(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN SDO_GEOMETRY DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_geom_id(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN NUMBER DETERMINISTIC,
+
+  ----------------
+  -- DEPRECATED --
+  ----------------
+  NOT INSTANTIABLE MEMBER FUNCTION get_external_node_id(
+    net_mem VARCHAR2, id NUMBER)
+    RETURN NUMBER DETERMINISTIC,
+
+  ----------------
+  -- DEPRECATED --
+  ----------------
+  NOT INSTANTIABLE MEMBER FUNCTION get_external_network_id(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN NUMBER DETERMINISTIC,
+
+  ----------------
+  -- DEPRECATED --
+  ----------------
+  NOT INSTANTIABLE MEMBER FUNCTION get_external_network_name(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN VARCHAR2 DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_parent_node_id(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN NUMBER DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_measure(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN NUMBER DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_cost(
+    net_mem VARCHAR2, node_id NUMBER, cost NUMBER),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_hierarchy_level(
+    net_mem VARCHAR2, node_id NUMBER,    level NUMBER),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_type(
+    net_mem VARCHAR2, node_id NUMBER, type VARCHAR2),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_name(
+    net_mem VARCHAR2, node_id NUMBER, node_name VARCHAR2),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_state(
+    net_mem VARCHAR2, node_id NUMBER, state VARCHAR2),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_component_no(
+    net_mem VARCHAR2, node_id NUMBER,    no NUMBER),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_parent_node(
+    net_mem VARCHAR2, node_id NUMBER,    parent_node_id NUMBER),
+
+  ----------------
+  -- DEPRECATED --
+  ----------------
+  NOT INSTANTIABLE MEMBER PROCEDURE set_external_node_id(
+    net_mem VARCHAR2, node_id NUMBER,    external_node_id NUMBER),
+
+  ----------------
+  -- DEPRECATED --
+  ----------------
+  NOT INSTANTIABLE MEMBER PROCEDURE set_external_network_id(
+    net_mem VARCHAR2, node_id NUMBER,    external_network_id NUMBER),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_geometry(
+    net_mem VARCHAR2, node_id NUMBER,    geom SDO_GEOMETRY),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_geom_id(
+    net_mem VARCHAR2, node_id NUMBER,    geom_id NUMBER),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE set_measure(
+    net_mem VARCHAR2, node_id NUMBER,    measure NUMBER),
+
+  NOT INSTANTIABLE MEMBER PROCEDURE make_temporary(
+    net_mem VARCHAR2, node_id NUMBER),
+
+  NOT INSTANTIABLE MEMBER FUNCTION is_temporary(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN VARCHAR2 DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION is_active(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN VARCHAR2 DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION is_logical(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN VARCHAR2 DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION link_exists(
+    net_mem VARCHAR2, node_id1 NUMBER, node_id2 NUMBER)
+    RETURN VARCHAR2 DETERMINISTIC,
+
+  ----------------
+  -- DEPRECATED --
+  ----------------
+  NOT INSTANTIABLE MEMBER FUNCTION is_external_node(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN VARCHAR2 DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_in_degree(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN NUMBER DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_out_degree(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN NUMBER DETERMINISTIC,
+
+  NOT INSTANTIABLE MEMBER FUNCTION get_degree(
+    net_mem VARCHAR2, node_id NUMBER)
+    RETURN NUMBER DETERMINISTIC
+
+
+) NOT INSTANTIABLE NOT FINAL
+ ALTER  TYPE SDO_NODE_T DROP
+   NOT INSTANTIABLE MEMBER FUNCTION get_external_network_id(
+    net_mem VARCHAR2, node_id NUMBER) RETURN NUMBER CASCADE
+ ALTER  TYPE SDO_NODE_T DROP
+    NOT INSTANTIABLE MEMBER PROCEDURE set_external_network_id(
+    net_mem VARCHAR2, node_id NUMBER,    external_network_id NUMBER) CASCADE
+ ALTER  TYPE SDO_NODE_T DROP
+   NOT INSTANTIABLE MEMBER FUNCTION get_external_node_id(
+    net_mem VARCHAR2, id NUMBER) RETURN NUMBER CASCADE
+ ALTER  TYPE SDO_NODE_T DROP
+    NOT INSTANTIABLE MEMBER PROCEDURE set_external_node_id(
+    net_mem VARCHAR2, node_id NUMBER,    external_node_id NUMBER) CASCADE
+ ALTER  TYPE SDO_NODE_T DROP
+      NOT INSTANTIABLE MEMBER FUNCTION get_external_network_name(
+         net_mem VARCHAR2, node_id NUMBER) RETURN VARCHAR2 CASCADE
+ ALTER  TYPE SDO_NODE_T DROP
+     NOT INSTANTIABLE MEMBER FUNCTION is_external_node(
+     net_mem VARCHAR2, node_id NUMBER) RETURN VARCHAR2 CASCADE
+/

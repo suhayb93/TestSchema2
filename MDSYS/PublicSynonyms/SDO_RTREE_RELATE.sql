@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_rtree_relate FOR mdsys.sdo_rtree_relate;

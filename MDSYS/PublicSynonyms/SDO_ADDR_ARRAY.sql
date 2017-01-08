@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_addr_array FOR mdsys.sdo_addr_array;

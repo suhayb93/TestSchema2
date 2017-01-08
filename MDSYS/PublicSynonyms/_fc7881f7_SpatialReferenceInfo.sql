@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/fc7881f7_SpatialReferenceInfo" FOR mdsys."/fc7881f7_SpatialReferenceInfo";

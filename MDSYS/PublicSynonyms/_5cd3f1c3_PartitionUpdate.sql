@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/5cd3f1c3_PartitionUpdate" FOR mdsys."/5cd3f1c3_PartitionUpdate";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/413f7686_NetworkManagerPathNo" FOR mdsys."/413f7686_NetworkManagerPathNo";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/185f9e5b_SdoGeometry" FOR mdsys."/185f9e5b_SdoGeometry";

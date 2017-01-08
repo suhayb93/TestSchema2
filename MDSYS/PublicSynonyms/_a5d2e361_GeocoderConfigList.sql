@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a5d2e361_GeocoderConfigList" FOR mdsys."/a5d2e361_GeocoderConfigList";

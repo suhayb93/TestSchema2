@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/bd0fa28_GeodeticCostFunction" FOR mdsys."/bd0fa28_GeodeticCostFunction";

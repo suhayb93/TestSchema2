@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE NONEDITIONABLE VIEW mdsys.rowtokenmap$ (tokenid,tablename,rpointer,markeddeleted) AS
+select tokenId , tableName , rpointer , markedDeleted from  mdsys.RowTokenMap_t$  where tokenId in (select tokenId from mdsys.TokenSessionMap$) ;

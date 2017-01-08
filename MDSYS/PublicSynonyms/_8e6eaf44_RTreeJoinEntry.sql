@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/8e6eaf44_RTreeJoinEntry" FOR mdsys."/8e6eaf44_RTreeJoinEntry";

@@ -1,0 +1,29 @@
+CREATE OR REPLACE NONEDITIONABLE function mdsys.sdo_simple_filter wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+443 237
+Yfq3g7QszQ5H1xg6ajnBtHdLfQowg5AJLiCsZy/NWA9/eMoNb2ucb3mswgYbwiHZJeMf4Gbo
+FJ45pbW/OsIM5gtivb2CTjCCIItiHcJwtO9pigNNWtzBC3ak8QuIwRjWeh/PBW3lKNsRV+G9
+uUJxWVGyyN2Q73vhsYPkov62AgBRpbWiBRzMHybT6VYONiJiRVSTw1v9f6I6KLQXMPu0wZDj
+8EzdRqhbzF7s71u2QZUMaewBOE8DO7HFMI78R1OjT4B5WVZA5PZMRGHmGhztzcWWOw3QkbfB
+Ly2tYzENEhOvjfo47lsjQRHsyfI0GTPiOLtw59ji8BakXpn4FsDN41scXJGxp4DKTv7e4H2W
+ZLHHlweK8YSnaj7ZCxadnz53WBDAGOtm+iXhnzTIyWyOnE6t2dkwlgqL8DqVKeiCUEYIeziS
+pj9wIJeiQ5IntcMKebAcNiIrd8VZ/btVZx6keTCZtIyytZ+d3K5inyuQxgaUYy1wQzbQDUje
+mw2IlTRQQ8SVBJCsOw5wVNaz60uUMQfD4yKOjjJnYNaextWLanj8/ORi
+/

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b93f9f08_NetworkIOImplSpatial" FOR mdsys."/b93f9f08_NetworkIOImplSpatial";

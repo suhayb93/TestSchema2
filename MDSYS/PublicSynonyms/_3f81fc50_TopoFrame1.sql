@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/3f81fc50_TopoFrame1" FOR mdsys."/3f81fc50_TopoFrame1";

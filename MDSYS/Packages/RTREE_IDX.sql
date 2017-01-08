@@ -1,0 +1,25 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE mdsys.rtree_idx wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+117 f3
+blzakgw538g1KC+oV0zCYIhHYFIwg41KLcsVfHSiWPiUHDXlBFTavi0MYqOwwPHhXm97Syt0
+zyIC+y2p2y5JVZjrsn3LUxd1IE4hQx5Dy3Xg1TbRWC3UbuH9cBam7BrRGOovbCJDIS9gQA3K
+Rse0I8CbnqL9D6xitu/s9rOfQwn5Zpqz46TS0m7nXccPBShxOs4o/3u8nWI/TqGrxpGe7JLs
+O8VUvVarx297XApb5JMkBw==
+/

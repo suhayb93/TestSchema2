@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/2f847630_EuclideanCostFunctio" FOR mdsys."/2f847630_EuclideanCostFunctio";

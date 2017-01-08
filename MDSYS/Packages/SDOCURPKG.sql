@@ -1,0 +1,25 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE mdsys.sdoCurPkg wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+120 eb
+purE+HEygKLMU6mlWUHy115JCskwgzJKfyisfC8CkDqUIEbbldQ7Xt7V0w0hgPYG3AaPcOEI
+tRKjZ6H1RZi7QxkShynW5VZAueIs7Z1MzMSIL9EZrCeE4mYKWDeAhDmtbTA+/W6UKe1m9215
+LUFLVHDoAm6KYCSkPjrN3fYFL2So8fjb1yxreiPpnZ5L4R+uY2OJip2mGUbQ81YMFHKdbIta
+WJMXXfy9lybpjw==
+/

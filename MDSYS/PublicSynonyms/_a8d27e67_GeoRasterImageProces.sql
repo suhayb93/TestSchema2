@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a8d27e67_GeoRasterImageProces" FOR mdsys."/a8d27e67_GeoRasterImageProces";

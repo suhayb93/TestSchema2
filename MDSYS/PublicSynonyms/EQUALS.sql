@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM equals FOR mdsys.ogc_equals;

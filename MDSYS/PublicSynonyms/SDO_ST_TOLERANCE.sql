@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_st_tolerance FOR mdsys.sdo_st_tolerance;

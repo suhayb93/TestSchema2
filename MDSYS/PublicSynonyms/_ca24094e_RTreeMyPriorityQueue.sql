@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ca24094e_RTreeMyPriorityQueue" FOR mdsys."/ca24094e_RTreeMyPriorityQueue";

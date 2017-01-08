@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ogis_spatial_reference_systems FOR mdsys.ogis_spatial_reference_systems;

@@ -1,0 +1,27 @@
+CREATE OR REPLACE NONEDITIONABLE package BODY mdsys.SDO_TOPO_METADATA wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+358 181
+5piBa9UMPWPVQkfSs+kQav1DBkAwg43rAErWfC9EjzutlYk15j5hY6uKk+BEeoW0DE1TtWKf
+fC+bhFqn4YhLmvhfDjUy1PEOcFWECkKlaKVpt4DwHPsFNqvGGPW4NvUIy41Pi7gX+qTUOJUB
+KNQVlnsy5v6QbEsS243dr2TVymCj2Cm5P8WhYOdpad6KBLoeYSDQrlCvVKpo7gEIZZhhGr5G
+9z06zTMO4HeQLeyYzRA3nXRggGuyMjXR8EXQuP0xxxkRQhpGYG8lZQiNyVZYWiVnQ4wX0E5R
+yrqCxFTlZt6AMlH+Gqqda/ClLv+uS5f9YcqCPUKe8bxqZS9QaJCp7yxonjRqR3IGxkUeRTuT
+o+J2rQC1eDqxLIyNBq0=
+/

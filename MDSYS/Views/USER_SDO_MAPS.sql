@@ -1,0 +1,4 @@
+CREATE OR REPLACE FORCE NONEDITIONABLE VIEW mdsys.user_sdo_maps ("NAME",description,definition) AS
+SELECT NAME, DESCRIPTION,DEFINITION
+FROM SDO_MAPS_TABLE
+WHERE sdo_owner = sys_context('userenv', 'CURRENT_SCHEMA');

@@ -1,0 +1,25 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.sdo_PointInPolygon wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+16c 11b
+LRBp9eSEHVNEJGhhF93mQX1GTBUwg43ILSfbfHRA2ppeETTWJWv2SWzMCZTp38JxpV1DDo7y
+ZaAMmvmKmEnjG6F9tc6BcpOAwQ6lElX2aJ3EJBkG+U61DSDBf/0a8eWzaIOOijo2BydrSzx8
+z6bVGj53Ire6rZcIyqRrQqR9S/TjQPb8kq6gCKTNlBvsf214DoVj7l96EzMPD2nZRkr05NLI
+GMjDCXZGj2hv//5TI9+EN58Z+/fvvdUuyLYe4X9Le/Z0CacOjbFUc80pOez7aQQ=
+/

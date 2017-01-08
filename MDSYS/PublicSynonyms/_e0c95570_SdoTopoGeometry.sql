@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e0c95570_SdoTopoGeometry" FOR mdsys."/e0c95570_SdoTopoGeometry";

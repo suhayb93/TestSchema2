@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/dd3de40_NetworkAnalyst1" FOR mdsys."/dd3de40_NetworkAnalyst1";

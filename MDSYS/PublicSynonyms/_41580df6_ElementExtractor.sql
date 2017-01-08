@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/41580df6_ElementExtractor" FOR mdsys."/41580df6_ElementExtractor";

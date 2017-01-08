@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhcompare FOR mdsys.hhcompare;

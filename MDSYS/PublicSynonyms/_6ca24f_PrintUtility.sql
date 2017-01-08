@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6ca24f_PrintUtility" FOR mdsys."/6ca24f_PrintUtility";

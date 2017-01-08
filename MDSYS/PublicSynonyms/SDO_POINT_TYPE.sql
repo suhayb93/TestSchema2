@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_point_type FOR mdsys.sdo_point_type;

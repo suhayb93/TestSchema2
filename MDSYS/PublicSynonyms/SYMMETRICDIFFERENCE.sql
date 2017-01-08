@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM symmetricdifference FOR mdsys.ogc_symmetricdifference;

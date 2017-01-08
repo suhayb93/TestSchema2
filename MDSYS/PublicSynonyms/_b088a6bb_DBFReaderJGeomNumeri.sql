@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b088a6bb_DBFReaderJGeomNumeri" FOR mdsys."/b088a6bb_DBFReaderJGeomNumeri";

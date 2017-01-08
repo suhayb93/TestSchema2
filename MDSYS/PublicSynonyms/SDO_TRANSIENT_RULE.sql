@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_transient_rule FOR mdsys.sdo_transient_rule;

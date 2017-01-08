@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b33c1d22_NetworkSearchMatched" FOR mdsys."/b33c1d22_NetworkSearchMatched";

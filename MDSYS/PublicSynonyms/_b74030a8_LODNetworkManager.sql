@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b74030a8_LODNetworkManager" FOR mdsys."/b74030a8_LODNetworkManager";

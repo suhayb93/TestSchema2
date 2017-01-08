@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/5e695b59_NetworkFactory" FOR mdsys."/5e695b59_NetworkFactory";

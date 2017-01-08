@@ -1,0 +1,4 @@
+CREATE GLOBAL TEMPORARY TABLE mdsys.sdo_topo_maps (
+  topology_id VARCHAR2(20 BYTE)
+)
+ON COMMIT DELETE ROWS;

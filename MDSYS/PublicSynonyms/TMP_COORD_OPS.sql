@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tmp_coord_ops FOR mdsys.tmp_coord_ops;

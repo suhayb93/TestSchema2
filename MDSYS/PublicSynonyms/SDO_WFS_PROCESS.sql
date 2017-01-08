@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_wfs_process FOR mdsys.sdo_wfs_process;

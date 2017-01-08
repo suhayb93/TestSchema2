@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/906a57a7_GeorGtfParser" FOR mdsys."/906a57a7_GeorGtfParser";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/92404e07_QueryUtility" FOR mdsys."/92404e07_QueryUtility";

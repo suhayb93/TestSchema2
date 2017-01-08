@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM multilinestringfromtext FOR mdsys.ogc_multilinestringfromtext;

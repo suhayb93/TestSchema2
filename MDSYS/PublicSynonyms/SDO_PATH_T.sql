@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_path_t FOR mdsys.sdo_path_t;

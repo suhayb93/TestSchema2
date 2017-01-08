@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/540dac42_ElocationPartition" FOR mdsys."/540dac42_ElocationPartition";

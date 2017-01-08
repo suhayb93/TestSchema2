@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM geometrytype FOR mdsys.ogc_geometrytype;

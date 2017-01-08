@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/topo/TopoFrame" FOR mdsys."oracle/spatial/topo/TopoFrame";

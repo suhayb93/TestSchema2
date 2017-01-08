@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_georaster_array FOR mdsys.sdo_georaster_array;

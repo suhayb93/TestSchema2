@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/faf0f1af_JDBCAdapter1" FOR mdsys."/faf0f1af_JDBCAdapter1";

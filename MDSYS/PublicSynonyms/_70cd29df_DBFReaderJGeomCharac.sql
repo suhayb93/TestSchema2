@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/70cd29df_DBFReaderJGeomCharac" FOR mdsys."/70cd29df_DBFReaderJGeomCharac";

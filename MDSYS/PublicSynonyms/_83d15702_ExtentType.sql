@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/83d15702_ExtentType" FOR mdsys."/83d15702_ExtentType";

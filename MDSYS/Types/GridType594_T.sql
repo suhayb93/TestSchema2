@@ -1,0 +1,2 @@
+CREATE OR REPLACE NONEDITIONABLE TYPE mdsys."GridType594_T" AS OBJECT ("SYS_XDBPD$" "XDB"."XDB$RAW_LIST_T","GridProperties" "GridPropertiesType593_T","GridData" "GridDataType582_T","HierarchyParticipation" "HierarchyParticipation595_T")NOT FINAL INSTANTIABLE 
+/

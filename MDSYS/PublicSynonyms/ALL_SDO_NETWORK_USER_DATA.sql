@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM all_sdo_network_user_data FOR mdsys.all_sdo_network_user_data;

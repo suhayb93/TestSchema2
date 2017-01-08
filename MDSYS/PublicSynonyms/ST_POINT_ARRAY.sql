@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_point_array FOR mdsys.st_point_array;

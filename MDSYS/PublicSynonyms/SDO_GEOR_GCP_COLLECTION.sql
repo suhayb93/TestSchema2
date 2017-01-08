@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_geor_gcp_collection FOR mdsys.sdo_geor_gcp_collection;

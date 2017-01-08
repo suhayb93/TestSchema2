@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a76d95b7_SdoElemInfoArray" FOR mdsys."/a76d95b7_SdoElemInfoArray";

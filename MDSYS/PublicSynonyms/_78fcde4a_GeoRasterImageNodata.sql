@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/78fcde4a_GeoRasterImageNodata" FOR mdsys."/78fcde4a_GeoRasterImageNodata";

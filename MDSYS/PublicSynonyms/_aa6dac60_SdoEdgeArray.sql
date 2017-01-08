@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/aa6dac60_SdoEdgeArray" FOR mdsys."/aa6dac60_SdoEdgeArray";

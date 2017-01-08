@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ded640ab_SpatialHeavyPath" FOR mdsys."/ded640ab_SpatialHeavyPath";

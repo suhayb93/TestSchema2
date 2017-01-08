@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/34ce400f_LogicalNode" FOR mdsys."/34ce400f_LogicalNode";

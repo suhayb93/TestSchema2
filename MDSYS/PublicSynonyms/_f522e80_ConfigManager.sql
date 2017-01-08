@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/f522e80_ConfigManager" FOR mdsys."/f522e80_ConfigManager";

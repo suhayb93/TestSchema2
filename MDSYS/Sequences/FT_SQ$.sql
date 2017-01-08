@@ -1,0 +1,1 @@
+CREATE SEQUENCE mdsys.ft_sq$ NOCACHE;

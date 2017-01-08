@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/d4441974_WKBasisVectorOfInt" FOR mdsys."/d4441974_WKBasisVectorOfInt";

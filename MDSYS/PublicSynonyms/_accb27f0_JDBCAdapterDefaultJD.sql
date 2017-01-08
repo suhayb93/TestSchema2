@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/accb27f0_JDBCAdapterDefaultJD" FOR mdsys."/accb27f0_JDBCAdapterDefaultJD";

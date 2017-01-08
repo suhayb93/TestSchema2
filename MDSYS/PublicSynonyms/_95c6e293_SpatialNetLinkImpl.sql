@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/95c6e293_SpatialNetLinkImpl" FOR mdsys."/95c6e293_SpatialNetLinkImpl";

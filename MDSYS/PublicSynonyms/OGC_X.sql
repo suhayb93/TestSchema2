@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ogc_x FOR mdsys.ogc_x;

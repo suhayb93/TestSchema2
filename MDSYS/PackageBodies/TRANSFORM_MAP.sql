@@ -1,0 +1,25 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE  BODY mdsys.transform_map wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+1ab 11f
+Ax4QbGO3zrYwFr07QuY9fTItuzswg/DImMsVfHTpWPiUHG3b24P6eXTwEW6XoTVZzB9h4cXk
+neeJeOc4DEpdcSzB6NTgN8esaOUqdvifErSKktH1zRxQNeFpbWJaKuYOUAtQilp6GoItG1ez
+niEdeBtJWG5DsVNxC4bZ3RHnpxbp9GWQeo7QpZ+mr5C22rX/nsITk3+o4eKGmvWBcIK0lLfk
+YBkaltnGFyCDlfHrccfhhNSNXI2Vt1QB+sEgPuWFXpJDjbvdvytWrot0PDF9Nm2Y4C8=
+/

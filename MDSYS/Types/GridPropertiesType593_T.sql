@@ -1,0 +1,2 @@
+CREATE OR REPLACE NONEDITIONABLE TYPE mdsys."GridPropertiesType593_T" AS OBJECT ("SYS_XDBPD$" "XDB"."XDB$RAW_LIST_T","MinCoords" "CoordinatesType585_T","MaxCoords" "CoordinatesType585_T","CoordSpacing" "CoordinatesType585_T","CoordinateUnitOfMeasure" "UnitOfMeasureType581_T")NOT FINAL INSTANTIABLE 
+/

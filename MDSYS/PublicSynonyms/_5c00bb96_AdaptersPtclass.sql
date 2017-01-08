@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/5c00bb96_AdaptersPtclass" FOR mdsys."/5c00bb96_AdaptersPtclass";

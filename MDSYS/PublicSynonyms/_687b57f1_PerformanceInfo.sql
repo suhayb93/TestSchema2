@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/687b57f1_PerformanceInfo" FOR mdsys."/687b57f1_PerformanceInfo";

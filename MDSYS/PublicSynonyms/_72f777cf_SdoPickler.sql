@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/72f777cf_SdoPickler" FOR mdsys."/72f777cf_SdoPickler";

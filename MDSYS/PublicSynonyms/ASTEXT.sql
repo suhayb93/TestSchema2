@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM astext FOR mdsys.ogc_astext;

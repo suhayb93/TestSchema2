@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b83eb469_AddressParserPool" FOR mdsys."/b83eb469_AddressParserPool";

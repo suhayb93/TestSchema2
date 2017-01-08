@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhcldate FOR mdsys.hhcldate;

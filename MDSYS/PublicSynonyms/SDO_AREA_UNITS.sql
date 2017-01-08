@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_area_units FOR mdsys.sdo_area_units;

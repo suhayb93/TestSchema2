@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/91c0cefa_GoalNode" FOR mdsys."/91c0cefa_GoalNode";

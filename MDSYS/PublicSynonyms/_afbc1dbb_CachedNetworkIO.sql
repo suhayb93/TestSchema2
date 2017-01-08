@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/afbc1dbb_CachedNetworkIO" FOR mdsys."/afbc1dbb_CachedNetworkIO";

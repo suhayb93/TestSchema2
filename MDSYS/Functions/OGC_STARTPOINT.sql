@@ -1,0 +1,7 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.OGC_StartPoint(
+  c ST_Curve)
+    RETURN ST_Point IS
+BEGIN
+  RETURN c.ST_StartPoint();
+END OGC_StartPoint;
+/

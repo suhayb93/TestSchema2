@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/35f5e40f_WKInputStream" FOR mdsys."/35f5e40f_WKInputStream";

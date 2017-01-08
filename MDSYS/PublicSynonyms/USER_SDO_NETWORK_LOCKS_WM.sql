@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM user_sdo_network_locks_wm FOR mdsys.user_sdo_network_locks_wm;

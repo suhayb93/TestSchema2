@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a7719bd6_DepthFirstSearchLIFO" FOR mdsys."/a7719bd6_DepthFirstSearchLIFO";

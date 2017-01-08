@@ -1,0 +1,8 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.OGC_MultiLineStringFromText(
+  wkt   IN VARCHAR2,
+  srid  IN INTEGER DEFAULT NULL)
+    RETURN ST_MultiLineString IS
+BEGIN
+  RETURN TREAT(ST_GEOMETRY.FROM_WKT(wkt, srid) AS ST_MultiLineString);
+END OGC_MultiLineStringFromText;
+/

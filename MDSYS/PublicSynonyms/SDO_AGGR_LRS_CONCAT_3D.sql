@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_aggr_lrs_concat_3d FOR mdsys.sdo_aggr_lrs_concat_3d;

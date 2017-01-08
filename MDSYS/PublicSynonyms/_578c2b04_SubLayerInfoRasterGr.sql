@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/578c2b04_SubLayerInfoRasterGr" FOR mdsys."/578c2b04_SubLayerInfoRasterGr";

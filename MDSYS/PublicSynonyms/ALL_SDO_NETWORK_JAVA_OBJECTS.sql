@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM all_sdo_network_java_objects FOR mdsys.all_sdo_network_java_objects;

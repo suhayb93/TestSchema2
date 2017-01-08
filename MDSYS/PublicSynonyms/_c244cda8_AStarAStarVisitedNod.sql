@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c244cda8_AStarAStarVisitedNod" FOR mdsys."/c244cda8_AStarAStarVisitedNod";

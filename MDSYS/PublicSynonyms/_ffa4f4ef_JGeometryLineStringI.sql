@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ffa4f4ef_JGeometryLineStringI" FOR mdsys."/ffa4f4ef_JGeometryLineStringI";

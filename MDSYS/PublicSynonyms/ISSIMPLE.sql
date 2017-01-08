@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM issimple FOR mdsys.ogc_issimple;

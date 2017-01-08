@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_aggr_set_union FOR mdsys.sdo_aggr_set_union;

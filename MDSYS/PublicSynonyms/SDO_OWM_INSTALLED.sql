@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_owm_installed FOR mdsys.sdo_owm_installed;

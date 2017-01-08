@@ -1,0 +1,30 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE mdsys.sdo_pridx wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+70c 26c
+1Vb7OdGcn4MkxsQ691juDt+Ispwwg5WNLUhofHRA2ppeuHodYKlo7PSnMEovk9MWrVMToJEp
+d1FMks5DPimvwM3HSN4Ahcr7CbW1zMId5R+KvT+8ENmaqs8Q+ERX6BeMNfBHXQkc739waM2m
+Soxe+jBbAL5HYBdgsV65/4hYuE9RajePlJMA7yyjWgNUo356OIdRNDuCBQBTrrQuo8rqCJ/W
+dzF2HeX4Gg+PBBDheMukUpkaEM7n7AnXiWCfLCawXG4TBL9Pn7xsOOWozF+RYhuDA6xN7Uck
+NNIoUW1MljWZOahBhtaxlwSwKZFos2Tx844NdalfhDQbxTXCTG/MnKzxyxvIKkrSEhSNPPHX
+XUsDNhKhFF7DbXe5dLtooikLmcIc7Ogz333dtqrZIousIFnPyWN+klQHBwGMDF1tOR7Mmls/
+kw+SLFDqWE9K23NL4c8bMv6ucMcJn1/0U0Bi6oczvh9hdljPt7+ZMz2HnefZLjSzfwiS4+AV
+mSYSQGZIg8oM63fWYhbhEukjkcXvkoQLgdxdci4pIMHCtT2+NHgWiSC1GuCXeWB9YJmw3dAp
+ozA61Vy9wRtrdlTARXzLwOPcrg8/HZRJQbk=
+/

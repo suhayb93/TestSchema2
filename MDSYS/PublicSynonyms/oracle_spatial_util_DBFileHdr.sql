@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/util/DBFileHdr" FOR mdsys."oracle/spatial/util/DBFileHdr";

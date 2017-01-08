@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/dbf8243f_ObjectInfo" FOR mdsys."/dbf8243f_ObjectInfo";

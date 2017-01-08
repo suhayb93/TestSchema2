@@ -1,0 +1,26 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE mdsys.prvttnpc wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+2af 154
+pxEsNojIvOzLWMFLwNK7qPS2m30wg433r0gVfHRAv4s+z4yNV82Dt7dFL1qQl1IExHafT1BG
+MPlEGjJEqHvAM8G7/k/7zcuxNsa7TinSMuQ2X5mpNaxj3703hlpRvmOo1auujbMReHfvisyK
+OUMQXItPeoxfAHMu1rL5nX4th2NkiKom9E6tZ2Y1wh5lpHF3V8ABXgf61Vba0venMseTd2xh
+/OFq7CFbA9fiOxVbt1nPOe9VyU1k80YhvR2wGcgheOnE00AM19tiLTKOClL6VTp8v3Idc3qC
+c6cIuNwZZIuRP78spek0ohBHPFBW8ixjY+3FKGFC+Ps/nbco
+/

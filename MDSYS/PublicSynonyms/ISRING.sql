@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM isring FOR mdsys.ogc_isring;

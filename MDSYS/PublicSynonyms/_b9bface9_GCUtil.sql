@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b9bface9_GCUtil" FOR mdsys."/b9bface9_GCUtil";

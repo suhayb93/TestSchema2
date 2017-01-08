@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_coord_ref_system FOR mdsys.sdo_coord_ref_system;

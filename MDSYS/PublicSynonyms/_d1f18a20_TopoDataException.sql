@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/d1f18a20_TopoDataException" FOR mdsys."/d1f18a20_TopoDataException";

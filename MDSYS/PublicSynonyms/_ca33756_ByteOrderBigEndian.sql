@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ca33756_ByteOrderBigEndian" FOR mdsys."/ca33756_ByteOrderBigEndian";

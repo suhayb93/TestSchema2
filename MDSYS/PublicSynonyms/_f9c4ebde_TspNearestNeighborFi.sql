@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/f9c4ebde_TspNearestNeighborFi" FOR mdsys."/f9c4ebde_TspNearestNeighborFi";

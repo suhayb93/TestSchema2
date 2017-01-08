@@ -1,0 +1,25 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.SpClusters wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+12c 10f
+WEuM1AA1EdlKHUqEKrU4krIAK4owgzLQ2iDhNXRGJk7VcRvT5qynl4qS3SXiu12AicO6Yww3
+MOS1VrA2vfRTdnIXcnSo+kKOSwuSvEGWD7BOCobiyHBsMIAuW3fX0yVUHI0fMN+UJKPFONwn
+ysy/GgwwSKRqmZp+Vp3chSFwjgeBJLHBcLblTna+1qpSuU2iPiCQK5tpN+zN6yunxuigu1/3
+/mxALFeEnlzTIDhzv5xJQU1LaUB8pwAEPL4MhnsqmtE/prQjWvI=
+/

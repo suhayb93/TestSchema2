@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM linestring FOR mdsys.st_linestring;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_within_distance FOR mdsys.sdo_within_distance;

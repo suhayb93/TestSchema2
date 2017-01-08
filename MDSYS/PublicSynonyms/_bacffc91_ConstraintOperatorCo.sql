@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/bacffc91_ConstraintOperatorCo" FOR mdsys."/bacffc91_ConstraintOperatorCo";

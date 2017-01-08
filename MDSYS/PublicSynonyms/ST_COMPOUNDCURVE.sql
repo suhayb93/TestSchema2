@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_compoundcurve FOR mdsys.st_compoundcurve;

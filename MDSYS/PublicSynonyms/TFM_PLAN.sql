@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tfm_plan FOR mdsys.tfm_plan;

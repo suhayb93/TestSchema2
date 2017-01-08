@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1d3641da_NetworkCache" FOR mdsys."/1d3641da_NetworkCache";

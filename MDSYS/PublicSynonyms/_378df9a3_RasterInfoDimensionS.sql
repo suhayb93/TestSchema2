@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/378df9a3_RasterInfoDimensionS" FOR mdsys."/378df9a3_RasterInfoDimensionS";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_topo_geometry_layer_array FOR mdsys.sdo_topo_geometry_layer_array;

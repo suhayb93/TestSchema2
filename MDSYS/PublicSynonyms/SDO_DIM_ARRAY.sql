@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_dim_array FOR mdsys.sdo_dim_array;

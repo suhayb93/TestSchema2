@@ -1,0 +1,26 @@
+CREATE OR REPLACE NONEDITIONABLE package mdsys.mderr wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+97f 150
+2vn7lP+WT43SewZZ7P8/kb23DsAwg83xJK5qfC+VWE4+SFYJOaOXdylLD6w922G5bmboVgGR
+Kf4sU0AmhArLdPNdOR6RtfWqGcfJxMFv0jLkepDjDeXjTUV0mPrxduTKyu4OBBIk5hT6lxzk
+j56zN5XtLX78gj8qq59rmUOG3Ggj2/Xc5lYRqMQpAMiwJqC0K9LsCVtKXbOlUJQeVT4cvyQe
+uAWCvaBauAGOIS+iW0xMueq3omQq7a6w23pDkztHbpFrE1McQTxewA+B6dQP97Ol11GSR1x4
+5EJ/KSBYkc6fCNIPEifO2c+dplGwGf1hEs45fmSKTA==
+/

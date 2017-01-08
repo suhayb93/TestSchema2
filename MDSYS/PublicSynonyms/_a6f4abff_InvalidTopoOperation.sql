@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a6f4abff_InvalidTopoOperation" FOR mdsys."/a6f4abff_InvalidTopoOperation";

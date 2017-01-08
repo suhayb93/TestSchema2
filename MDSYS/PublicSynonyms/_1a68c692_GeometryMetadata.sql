@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1a68c692_GeometryMetadata" FOR mdsys."/1a68c692_GeometryMetadata";

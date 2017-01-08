@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/90d5b227_JGeometryDensifyData" FOR mdsys."/90d5b227_JGeometryDensifyData";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM disjoint FOR mdsys.ogc_disjoint;

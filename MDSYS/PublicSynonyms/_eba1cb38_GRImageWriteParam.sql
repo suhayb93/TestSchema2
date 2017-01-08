@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/eba1cb38_GRImageWriteParam" FOR mdsys."/eba1cb38_GRImageWriteParam";

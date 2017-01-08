@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/ac0f7327_BlobImage" FOR mdsys."/ac0f7327_BlobImage";

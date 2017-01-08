@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/8c463612_SampleShapefileToJGe" FOR mdsys."/8c463612_SampleShapefileToJGe";

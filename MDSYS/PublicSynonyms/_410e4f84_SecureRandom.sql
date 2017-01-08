@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/410e4f84_SecureRandom" FOR mdsys."/410e4f84_SecureRandom";

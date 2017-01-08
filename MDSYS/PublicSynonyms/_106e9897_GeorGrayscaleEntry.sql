@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/106e9897_GeorGrayscaleEntry" FOR mdsys."/106e9897_GeorGrayscaleEntry";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhbytelen FOR mdsys.hhbytelen;

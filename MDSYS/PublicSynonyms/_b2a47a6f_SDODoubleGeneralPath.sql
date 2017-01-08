@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/b2a47a6f_SDODoubleGeneralPath" FOR mdsys."/b2a47a6f_SDODoubleGeneralPath";

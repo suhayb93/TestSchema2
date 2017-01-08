@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_geor_histogram FOR mdsys.sdo_geor_histogram;

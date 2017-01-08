@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/19e939ae_TspAnalysisInfo" FOR mdsys."/19e939ae_TspAnalysisInfo";

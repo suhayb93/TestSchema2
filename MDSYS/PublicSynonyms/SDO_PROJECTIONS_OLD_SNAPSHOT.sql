@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_projections_old_snapshot FOR mdsys.sdo_projections_old_snapshot;

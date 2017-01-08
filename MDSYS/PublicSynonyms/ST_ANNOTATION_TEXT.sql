@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_annotation_text FOR mdsys.st_annotation_text;

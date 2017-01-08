@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/e4bfb2c7_JGeometryLT_transfor" FOR mdsys."/e4bfb2c7_JGeometryLT_transfor";

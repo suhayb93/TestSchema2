@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6ce048bc_SeedGeneratorinvokeS" FOR mdsys."/6ce048bc_SeedGeneratorinvokeS";

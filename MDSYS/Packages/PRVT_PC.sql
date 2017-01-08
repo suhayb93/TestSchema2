@@ -1,0 +1,32 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE mdsys.prvt_pc wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+773 2de
+yAA8kA41udrk/ck8+sHiT8A85sMwgw2J10oFyi/GEv9euFkaTaM7d17cBOjf8LL1BCsTtge8
+3eXlkuSkihTf+bR+XD14KE6BtdepnPxW9i8gJKq18iAkRl93BGLDojYMPjlnqGpISUaAsGeA
+Nu6JoZ410xRkM1wSy+XzltNc7wg6FrRnwuwEcYHwXoO0XKmA/6AzWGUHPmV+24VlYD8U1Lcq
+YdyHUYoVFLQKjqU4nIrp4u2tYkp4UdjfVQBAdvCdB16hnxqXjdRIomwdS0Vv6HUx6FNYAgY3
+qu722E8TyWKCnK2Oa+4KX2JSH3kSdqRs8xuGffeM8qXyNKJejjWYw9YeqaXCiKfzcuczdrn7
+rk9PG5qcZafTTkT9XwM4bDNC/DtMSfCQeH1Ly+Uu9Qhp0jAvTlIN1ME4EBd/XgE0m3emi2Al
+zdgKS0+Em44wouJ74mSZxBM0gqftSOty6BHWhOEA2rou9wBOSvC93x+4jPQej/Iu6lSC5jSh
+t9Ut7LI3VJZtH9ElXNoFJaL8gYpV6F9ceXfIw3RdRXR4Vm+GuNOVRhGOSyyv/gIsZ1b+KXP/
+I32GHi28tG3Qu96jF5KvNiqCIXvkTFwHkkoSFgrw19BKoomcHReo3f9UtoVNXvuCsU4Q+rVH
+m0/6MGVjl2tdQNSb3HgO/88mttlewXNIWh/UPFTSuT/M3pvbdIsC/+TU1j1xBgIIJuuwJPE3
+wqY=
+/

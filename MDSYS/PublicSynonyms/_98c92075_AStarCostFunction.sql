@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/98c92075_AStarCostFunction" FOR mdsys."/98c92075_AStarCostFunction";

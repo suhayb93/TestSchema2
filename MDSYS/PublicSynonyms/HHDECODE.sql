@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhdecode FOR mdsys.hhdecode;

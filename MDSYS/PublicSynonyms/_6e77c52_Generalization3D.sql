@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6e77c52_Generalization3D" FOR mdsys."/6e77c52_Generalization3D";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/4dc30889_TopoMapSmartPoint" FOR mdsys."/4dc30889_TopoMapSmartPoint";

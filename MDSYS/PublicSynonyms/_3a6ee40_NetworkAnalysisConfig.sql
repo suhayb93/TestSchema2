@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/3a6ee40_NetworkAnalysisConfig" FOR mdsys."/3a6ee40_NetworkAnalysisConfig";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/20c3d23b_NetworkDataException" FOR mdsys."/20c3d23b_NetworkDataException";

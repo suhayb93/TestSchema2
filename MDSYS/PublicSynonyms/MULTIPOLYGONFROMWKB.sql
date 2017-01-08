@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM multipolygonfromwkb FOR mdsys.ogc_multipolygonfromwkb;

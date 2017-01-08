@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a4e3ff65_StreetTypeFormat" FOR mdsys."/a4e3ff65_StreetTypeFormat";

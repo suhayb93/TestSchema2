@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM polygonfromtext FOR mdsys.ogc_polygonfromtext;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/dd4719bd_DBFieldDesc" FOR mdsys."/dd4719bd_DBFieldDesc";

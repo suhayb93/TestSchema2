@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/1145142e_LogicalNetLink" FOR mdsys."/1145142e_LogicalNetLink";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hhcbit FOR mdsys.hhcbit;

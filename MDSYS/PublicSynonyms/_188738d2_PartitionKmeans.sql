@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/188738d2_PartitionKmeans" FOR mdsys."/188738d2_PartitionKmeans";

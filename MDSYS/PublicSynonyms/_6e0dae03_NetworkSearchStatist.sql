@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/6e0dae03_NetworkSearchStatist" FOR mdsys."/6e0dae03_NetworkSearchStatist";

@@ -1,0 +1,7 @@
+CREATE OR REPLACE NONEDITIONABLE TRIGGER mdsys.SDO_FEATURE_USAGE_UPDATE
+AFTER UPDATE OR DELETE ON mdsys.SDO_FEATURE_USAGE
+FOR EACH ROW
+BEGIN
+  mdsys.mdprvt_feature.sdo_invalidate_feature(:old.feature_name);
+END;
+/

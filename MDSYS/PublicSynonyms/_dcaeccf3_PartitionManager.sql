@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/dcaeccf3_PartitionManager" FOR mdsys."/dcaeccf3_PartitionManager";

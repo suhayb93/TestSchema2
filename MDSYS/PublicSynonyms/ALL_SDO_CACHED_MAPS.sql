@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM all_sdo_cached_maps FOR mdsys.all_sdo_cached_maps;

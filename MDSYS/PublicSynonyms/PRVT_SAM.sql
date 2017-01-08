@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM prvt_sam FOR mdsys.prvt_sam;

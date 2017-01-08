@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_statistics FOR mdsys.sdo_statistics;

@@ -1,0 +1,24 @@
+CREATE OR REPLACE NONEDITIONABLE function mdsys.SDO_Aggr_ConvexHull wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+d3 d2
+DkzgjF9FMruQkWu01gS6fw3cjxcwg5BKLcsVfHSiWPiUiDjuW3VZ4CVaSl6ty2ZeG3djxdPT
+43KwTJf/ebC3GZgMOAqoLfrRKgTGFwPQOhC10mTeg9b+rByOAOjjxT31i2SinPYi0RiNTTLd
+auHTd2bkBYPJUk0Wf7iFq9iIZ6nnJqhqWEsFh1jxHRIDnxPOGMS8L5CfDyxtgts=
+/

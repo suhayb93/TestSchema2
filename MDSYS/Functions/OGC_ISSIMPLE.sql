@@ -1,0 +1,7 @@
+CREATE OR REPLACE NONEDITIONABLE FUNCTION mdsys.OGC_IsSimple(
+  g ST_Geometry)
+    RETURN Integer DETERMINISTIC IS
+BEGIN
+  RETURN g.ST_IsSimple();
+END OGC_IsSimple;
+/

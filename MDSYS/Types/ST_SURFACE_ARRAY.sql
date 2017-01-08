@@ -1,0 +1,4 @@
+CREATE OR REPLACE NONEDITIONABLE TYPE mdsys.ST_SURFACE_ARRAY
+                                      
+AS VARRAY(1048576) OF ST_GEOMETRY
+/

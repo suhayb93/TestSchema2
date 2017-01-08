@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM multisurface FOR mdsys.st_multisurface;

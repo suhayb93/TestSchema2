@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/c950e35b_Region" FOR mdsys."/c950e35b_Region";

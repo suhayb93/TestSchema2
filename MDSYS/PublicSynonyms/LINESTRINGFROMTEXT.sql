@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM linestringfromtext FOR mdsys.ogc_linestringfromtext;

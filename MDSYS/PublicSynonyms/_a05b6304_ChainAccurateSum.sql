@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/a05b6304_ChainAccurateSum" FOR mdsys."/a05b6304_ChainAccurateSum";

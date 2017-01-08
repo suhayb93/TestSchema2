@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/7433516c_DummyNodeCostCalcula" FOR mdsys."/7433516c_DummyNodeCostCalcula";

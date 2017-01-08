@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/534b8426_ShortestPath" FOR mdsys."/534b8426_ShortestPath";

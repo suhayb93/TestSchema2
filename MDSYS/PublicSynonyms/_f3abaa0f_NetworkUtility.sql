@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/f3abaa0f_NetworkUtility" FOR mdsys."/f3abaa0f_NetworkUtility";

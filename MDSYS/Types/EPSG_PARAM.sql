@@ -1,0 +1,6 @@
+CREATE OR REPLACE NONEDITIONABLE TYPE mdsys.epsg_param
+AS OBJECT (
+  id  NUMBER,
+  val NUMBER,
+  uom NUMBER);
+/

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sdo_tin_pkg FOR mdsys.sdo_tin_pkg;

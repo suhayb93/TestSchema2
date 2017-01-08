@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "oracle/spatial/network/KDTree" FOR mdsys."oracle/spatial/network/KDTree";

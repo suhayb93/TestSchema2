@@ -1,0 +1,1 @@
+CREATE INDEX mdsys.sdo_datums_datum_type ON mdsys.sdo_datums(datum_type);

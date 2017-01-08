@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM spatial_index FOR mdsys.spatial_index;

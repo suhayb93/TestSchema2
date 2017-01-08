@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/900ec01d_LongLinkedHashMap1" FOR mdsys."/900ec01d_LongLinkedHashMap1";

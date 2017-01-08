@@ -1,0 +1,2 @@
+CREATE OR REPLACE NONEDITIONABLE TYPE mdsys.sdo_stattab AS TABLE OF sdo_stat;
+/

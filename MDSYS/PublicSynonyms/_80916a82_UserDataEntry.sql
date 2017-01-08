@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/80916a82_UserDataEntry" FOR mdsys."/80916a82_UserDataEntry";

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM multipoint FOR mdsys.st_multipoint;

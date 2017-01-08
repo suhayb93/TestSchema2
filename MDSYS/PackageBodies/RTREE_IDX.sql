@@ -1,0 +1,26 @@
+CREATE OR REPLACE NONEDITIONABLE PACKAGE BODY mdsys.rtree_idx wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+20b 168
+B7jemszmE+mq1Sh/dTMvHOZ+u/wwgwLIf65qfC8CWE7VSH7pRsrv89a3mGFJ8ccynyWfl+Zb
+PBg3T9CQV3kUTUts2SM//jq5zS5zSGE2jZW2cbzRwU6lOgiy1AGI29dBdzDhKYMYjoeaj750
+rkspGjN+RFTISoTExo+jLfu/wK5v9hwyp/DXNYhreKO7X29CTXMSMTkS62dt949Qy3lj/lXm
+B5pIU/ZJKWSQAvh7e43PsGWu1EhWy+CPvBQNcRGVCQoR2fEumtdsqP2B8iFZ96Bdv28gk8oq
+IWAhOfGwQk60g0Vx8Ri1WlZKd5paXm+CKRgYajsJx9C9kBmhfHEVrbXWxpvuWy3gQsE=
+/

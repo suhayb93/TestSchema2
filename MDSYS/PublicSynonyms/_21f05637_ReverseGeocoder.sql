@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM "/21f05637_ReverseGeocoder" FOR mdsys."/21f05637_ReverseGeocoder";
